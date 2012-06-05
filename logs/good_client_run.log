@@ -1,0 +1,152 @@
+30121 --- SIGCHLD (Child exited) @ 0 (0) ---
+30120 --- SIGCHLD (Child exited) @ 0 (0) ---
+30120 --- SIGCHLD (Child exited) @ 0 (0) ---
+30120 --- SIGCHLD (Child exited) @ 0 (0) ---
+30127 sendto(5, "$\242wX\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30127 recvfrom(5, "$\242wX\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30127 sendto(5, "gMJb\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\16cs_users_staff\0\0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30127 recvfrom(5, "gMJb\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\21cs_users_staff_0 \0\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 52
+30127 sendto(5, "\"\2069\4\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\20cs_users_staff_0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30127 recvfrom(5, "\"\2069\4\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0J(-,ts_ts,cs)   (-,rdb,cs)   (-,nick,cs)   (-,aauton,cs)   (-,kauffman,cs) \0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 108
+30127 sendto(5, "Q6~\3\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30127 recvfrom(5, "Q6~\3\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30127 sendto(5, "\4\240\17Z\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\vgroup.bygid\0\0\0\0\00510060\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30127 recvfrom(5, "\4\240\17Z\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\34college:*:10060:ashuntwo,ido", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 60
+30127 sendto(5, "\32\201\272\264\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\vgroup.bygid\0\0\0\0\00510060\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30127 recvfrom(5, "\32\201\272\264\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\34college:*:10060:ashuntwo,ido", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 60
+30127 sendto(5, "P\323\370\3\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\vgroup.bygid\0\0\0\0\00513139\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30127 recvfrom(5, "P\323\370\3\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0&swift-coasters:*:13139:molbakr,jchu542\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 72
+30126 --- SIGCHLD (Child exited) @ 0 (0) ---
+30120 --- SIGCHLD (Child exited) @ 0 (0) ---
+30130 sendto(5, "\rp\304;\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30130 recvfrom(5, "\rp\304;\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30130 sendto(5, "\n\362l@\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\16cs_users_staff\0\0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30130 recvfrom(5, "\n\362l@\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\21cs_users_staff_0 \0\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 52
+30130 sendto(5, "yt\245T\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\20cs_users_staff_0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30130 recvfrom(5, "yt\245T\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0J(-,ts_ts,cs)   (-,rdb,cs)   (-,nick,cs)   (-,aauton,cs)   (-,kauffman,cs) \0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 108
+30130 sendto(5, "TT\10\334\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30130 recvfrom(5, "TT\10\334\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30130 sendto(6, "\200u\226\366\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30130 recvfrom(6, "\200u\226\366\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30130 sendto(6, "\10\234,\352\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\16cs_users_staff\0\0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30130 recvfrom(6, "\10\234,\352\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\21cs_users_staff_0 \0\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 52
+30130 sendto(6, "#\4\251\313\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\20cs_users_staff_0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30130 recvfrom(6, "#\4\251\313\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0J(-,ts_ts,cs)   (-,rdb,cs)   (-,nick,cs)   (-,aauton,cs)   (-,kauffman,cs) \0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 108
+30130 sendto(6, "w\373v2\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30130 recvfrom(6, "w\373v2\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30130 sendto(94, "\24\0\0\0\26\0\1\0038\353\312O\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+30130 sendto(94, "\257\351\1\0\0\1\0\0\0\0\0\0\4ursa\2cs\10uchicago\3edu\0\0\34\0\1", 38, MSG_NOSIGNAL, NULL, 0) = 38
+30130 recvfrom(94, "\257\351\205\200\0\1\0\0\0\1\0\0\4ursa\2cs\10uchicago\3edu\0\0\34\0\1\300\21\0\6\0\1\0\0*0\0\'\3ns0\300\21\nhostmaster\300\21w\355~l\0\0*0\0\0\16\20\0\t:\200\0\0*0", 1024, 0, {sa_family=AF_INET, sin_port=htons(53), sin_addr=inet_addr("128.135.247.50")}, [16]) = 89
+30130 sendto(94, "C\37\1\0\0\1\0\0\0\0\0\0\4ursa\2cs\10uchicago\3edu\2cs\10uchicago\3edu\0\0\34\0\1", 54, MSG_NOSIGNAL, NULL, 0) = 54
+30130 recvfrom(94, "C\37\205\203\0\1\0\0\0\1\0\0\4ursa\2cs\10uchicago\3edu\2cs\10uchicago\3edu\0\0\34\0\1\300!\0\6\0\1\0\0*0\0\'\3ns0\300!\nhostmaster\300!w\355~l\0\0*0\0\0\16\20\0\t:\200\0\0*0", 1024, 0, {sa_family=AF_INET, sin_port=htons(53), sin_addr=inet_addr("128.135.247.50")}, [16]) = 105
+30130 sendto(94, "\257\2\1\0\0\1\0\0\0\0\0\0\4ursa\2cs\10uchicago\3edu\10uchicago\3edu\0\0\34\0\1", 51, MSG_NOSIGNAL, NULL, 0) = 51
+30130 recvfrom(94, "\257\2\205\203\0\1\0\0\0\1\0\0\4ursa\2cs\10uchicago\3edu\10uchicago\3edu\0\0\34\0\1\300!\0\6\0\1\0\2\243\0\0)\5ucns0\300!\nhostmaster\300!|\233=-\0\0\34 \0\0\16\20\0\'\215\0\0\2\243\0", 1024, 0, {sa_family=AF_INET, sin_port=htons(53), sin_addr=inet_addr("128.135.247.50")}, [16]) = 104
+30130 sendto(94, "\353\326\1\0\0\1\0\0\0\0\0\0\4ursa\2cs\10uchicago\3edu\0\0\1\0\1", 38, MSG_NOSIGNAL, NULL, 0) = 38
+30130 recvfrom(94, "\353\326\205\200\0\1\0\1\0\1\0\1\4ursa\2cs\10uchicago\3edu\0\0\1\0\1\300\f\0\1\0\1\0\0*0\0\4\200\207\30\361\300\21\0\2\0\1\0\0*0\0\6\3ns1\300\21\300B\0\1\0\1\0\0*0\0\4\200\207\244\232", 1024, 0, {sa_family=AF_INET, sin_port=htons(53), sin_addr=inet_addr("128.135.247.50")}, [16]) = 88
+30149 --- SIGSEGV (Segmentation fault) @ 0 (0) ---
+30161 recvfrom(95, "\216\26\0\0\0\0\0\0\10\0\0\0\206\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "REGISTER", 8, 0, NULL, NULL) = 8
+30161 recvfrom(95, "\216\26\0\0\0\0\0\0\6\0\0\0\210\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "swork0", 6, 0, NULL, NULL) = 6
+30161 recvfrom(95, "\216\26\0\0\0\0\0\0\24\0\0\0\232\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "ursa.cs.uchicago.edu", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "\216\26\0\0\2\0\0\0\20\0\0\0\234\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "maxwalltime = -1", 16, 0, NULL, NULL) = 16
+30164 sendto(95, "\216\26\0\0\3\0\0\0\6\0\0\0\213\26\0\0!\1\366\3", 20, 0, NULL, 0) = 20
+30164 sendto(95, "000000", 6, 0, NULL, 0) = 6
+30161 recvfrom(94, "\1\0\0\0\0\0\0\0\r\0\0\0\f\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, "CHANNELCONFIG", 13, 0, NULL, NULL) = 13
+30161 recvfrom(94, "\1\0\0\0\0\0\0\0\32\0\0\0\33\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, " keepalive(120), reconnect", 26, 0, NULL, NULL) = 26
+30161 recvfrom(94, "\1\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, "\1\0\0\0\0\0\0\0\32\0\0\0\33\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, "ub8a652a-13743a87f30--8000", 26, 0, NULL, NULL) = 26
+30161 recvfrom(94, "\1\0\0\0\2\0\0\0\0\0\0\0\3\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30171 sendto(94, "\1\0\0\0\3\0\0\0\34\0\0\0\36\0\0\0\217\6-`", 20, 0, NULL, 0) = 20
+30171 sendto(94, "u-30088769-137b0a73e6a--8000", 28, 0, NULL, 0) = 28
+30161 recvfrom(94, "\2\0\0\0\0\0\0\0\r\0\0\0\17\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, "CONFIGSERVICE", 13, 0, NULL, NULL) = 13
+30161 recvfrom(94, "\2\0\0\0\0\0\0\0\r\0\0\0\17\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, "jobsPerNode=2", 13, 0, NULL, NULL) = 13
+30161 recvfrom(94, "\2\0\0\0\2\0\0\0\25\0\0\0\25\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, "workerManager=passive", 21, 0, NULL, NULL) = 21
+30171 sendto(94, "\2\0\0\0\3\0\0\0\2\0\0\0\3\0\0\0\233\0\353\0", 20, 0, NULL, 0) = 20
+30171 sendto(94, "OK", 2, 0, NULL, 0)   = 2
+30161 recvfrom(94, "\3\0\0\0\0\0\0\0\t\0\0\0\n\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, "SUBMITJOB", 9, 0, NULL, NULL) = 9
+30161 recvfrom(94, "\3\0\0\0\2\0\0\0~\1\0\0\177\1\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, "x\234\245S\313R\303 \24\335\363\25\272\27H\3236Vg\330\373\21\3168\4H\202\245\334\0107\332\376\275\4\342\273\272qu\237\234{\346\234\301j\343\321\342I\254\326\353]s\263\275n6\233fK\314\321\250\te\353\214\340\255\365\274\225q \332\6\243\20\302I\360\210\2627<\276\330\16\251\2\31\321\204X\312\207oezT\262\27\10{>\30\347\200\326\325\252\256\232\252\246u\275m\350S\334\232\315\376\330SK\215\32\200Z\0257j\27\367\244\225\250\6\321I\27\r\221\241\27\17\5\'\310\221\315\367\255\357s\233\226i\3469\3\224&L\230\223|\221\341\21\227\335\20r\22Q\247\364\243oK\3209,\255\356S\1\3359\264}\tJ\37:\353\314\247\365\304\17\247\230\3631\300\263M\307\312@\346p7\303\\]$I\234\276$YL\353\347\315\343\351\226s\7J\272\1\"\362?t\246\25\273Ys\5=?\200\236\234Y\332\\\333\364\256l\304g\237Ea\214;\333\316\226\362\237\22\336\373s\275UUX%\25\305<\31M`\16\322\340\'\307\277,e\232\177\261\224Y\337\301\275\257?\300\31\177\227\364W\3602<G)Y\10\341\337\244\26\224\232(g\244\237F\301\210\2\217R\241\30\20\307\4<\205(\231\212lR\203U\262\7f\364t\233\260\253\212\274\331+\26{h\342\25\223\7\351[\221\307\203x\5/j1<\177", 382, 0, NULL, NULL) = 382
+30161 --- SIGSEGV (Segmentation fault) @ 0 (0) ---
+30171 sendto(94, "\1\0\0\0\0\0\0\0\4\0\0\0\5\0\0\0005\1\25\3", 20, 0, NULL, 0) = 20
+30171 sendto(94, "RLOG", 4, 0, NULL, 0) = 4
+30171 sendto(94, "\1\0\0\0\0\0\0\0\6\0\0\0\7\0\0\0\325\1q\6", 20, 0, NULL, 0) = 20
+30171 sendto(94, "STDERR", 6, 0, NULL, 0) = 6
+30171 sendto(94, "\1\0\0\0\2\0\0\0P\0\0\0S\0\0\0\237\31\212\221", 20, 0, NULL, 0) = 20
+30171 sendto(94, "Passive queue processor initialized. Callback URI is http://128.135.24.241:12001", 80, 0, NULL, 0) = 80
+30171 sendto(94, "\3\0\0\0\3\0\0\0-\0\0\0-\0\0\0\24\n/\366", 20, 0, NULL, 0) = 20
+30171 sendto(94, "urn:1338695764465-1338698579682-1338698579683", 45, 0, NULL, 0) = 45
+30164 sendto(95, "\1\0\0\0\0\0\0\0\t\0\0\0\10\0\0\0\260\2\263\r", 20, 0, NULL, 0) = 20
+30164 sendto(95, "SUBMITJOB", 9, 0, NULL, 0) = 9
+30164 sendto(95, "\1\0\0\0\2\0\0\0\22\4\0\0\21\4\0\0ES[<", 20, 0, NULL, 0) = 20
+30164 sendto(95, "identity=1338698579683\nexecutable=/bin/bash\ndirectory=/stage/swift-coasters/swift_coasters/swift_dir/swiftwork/hello-20120602-2256-qs5e4kxg-i-echo-ics4c8sk\nbatch=false\narg=_swiftwrap.staging\narg=-e\narg=/bin/echo\narg=-out\narg=hello.txt\narg=-err\narg=stderr.txt\narg=-i\narg=-d\narg=\narg=-if\narg=\narg=-of\narg=hello.txt\narg=-k\narg=-cdmfile\narg=\narg=-status\narg=provider\narg=-a\narg=Hello, world!\nstagein=proxy://ub8a652a-13743a87f30--8000-u-30088769-137b0a73e6a--8000S//stage/swift-coasters/swift-0.93/cog/modules/swift/dist/swift-svn/bin/../libexec/_swiftwrap.staging\\n_swiftwrap.staging\\n10\nstageout=wrapper.error\\nproxy://ub8a652a-13743a87f30--8000-u-30088769-137b0a73e6a--8000S/hello-20120602-2256-qs5e4kxg.d/echo-ics4c8sk.error\\n2\nstageout=./hello.txt\\nproxy://ub8a652a-13743a87f30--8000-u-30088769-137b0a73e6a--8000S/hello.txt\\n10\nstageout=wrapper.log\\nproxy://ub8a652a-13743a87f30--8000-u-30088769-137b0a73e6a--8000S/hello-20120602-2256-qs5e4kxg.d/echo-ics4c8sk.info\\n2\ncleanup=.\ncontact=http://ursa.cs.uchicago.edu:12000\nprovider=coaster\njm=\n", 1042, 0, NULL, 0) = 1042
+30161 recvfrom(94, "\3\0\0\0\3\0\0\0\2\0\0\0\2\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(94, "OK", 2, 0, NULL, NULL) = 2
+30161 recvfrom(95, "\1\0\0\0\3\0\0\0\2\0\0\0\0\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "OK", 2, 0, NULL, NULL) = 2
+30161 recvfrom(95, "\217\26\0\0\0\0\0\0\t\0\0\0\206\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "JOBSTATUS", 9, 0, NULL, NULL) = 9
+30161 recvfrom(95, "\217\26\0\0\0\0\0\0\r\0\0\0\202\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "1338698579683", 13, 0, NULL, NULL) = 13
+30161 recvfrom(95, "\217\26\0\0\0\0\0\0\2\0\0\0\215\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "16", 2, 0, NULL, NULL) = 2
+30161 recvfrom(95, "\217\26\0\0\0\0\0\0\1\0\0\0\216\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "0", 1, 0, NULL, NULL) = 1
+30161 recvfrom(95, "\217\26\0\0\2\0\0\0\17\0\0\0\202\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "workerid=000000", 15, 0, NULL, NULL) = 15
+30171 sendto(94, "\2\0\0\0\0\0\0\0\t\0\0\0\v\0\0\0\300\2|\r", 20, 0, NULL, 0) = 20
+30164 sendto(95, "\217\26\0\0\3\0\0\0\2\0\0\0\216\26\0\0\233\0\353\0", 20, 0, NULL, 0 <unfinished ...>
+30171 sendto(94, "JOBSTATUS", 9, 0, NULL, 0 <unfinished ...>
+30161 recvfrom(95,  <unfinished ...>
+30164 <... sendto resumed> )            = 20
+30161 <... recvfrom resumed> "\220\26\0\0\0\0\0\0\3\0\0\0\223\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30171 <... sendto resumed> )            = 9
+30164 sendto(95, "OK", 2, 0, NULL, 0 <unfinished ...>
+30171 sendto(94, "\2\0\0\0\0\0\0\0-\0\0\0/\0\0\0\24\n/\366", 20, 0, NULL, 0 <unfinished ...>
+30161 recvfrom(95,  <unfinished ...>
+30164 <... sendto resumed> )            = 2
+30171 <... sendto resumed> )            = 20
+30161 <... recvfrom resumed> "GET", 3, 0, NULL, NULL) = 3
+30171 sendto(94, "urn:1338695764465-1338698579682-1338698579683", 45, 0, NULL, 0) = 45
+30171 sendto(94, "\2\0\0\0\0\0\0\0\2\0\0\0\0\0\0\0h\0\232\0", 20, 0, NULL, 0) = 20
+30171 sendto(94, "16", 2, 0, NULL, 0)   = 2
+30171 sendto(94, "\2\0\0\0\0\0\0\0\1\0\0\0\3\0\0\0001\0001\0", 20, 0, NULL, 0) = 20
+30171 sendto(94, "0", 1, 0, NULL, 0)    = 1
+30171 sendto(94, "\2\0\0\0\0\0\0\0\17\0\0\0\r\0\0\0\305\4\37-", 20, 0, NULL, 0) = 20
+30171 sendto(94, "workerid=000000", 15, 0, NULL, 0) = 15
+30171 sendto(94, "\2\0\0\0\2\0\0\0\10\0\0\0\10\0\0\0\30\2B\f", 20, 0, NULL, 0) = 20
+30171 sendto(94, "I?\247\2607\1\0\0", 8, 0, NULL, 0) = 8
+30161 recvfrom(95, "\220\26\0\0\0\0\0\0\244\0\0\0004\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "proxy://ub8a652a-13743a87f30--8000-u-30088769-137b0a73e6a--8000S//stage/swift-coasters/swift-0.93/cog/modules/swift/dist/swift-svn/bin/../libexec/_swiftwrap.staging", 164, 0, NULL, NULL) = 164
+30161 recvfrom(95, "\220\26\0\0\2\0\0\0x\0\0\0\352\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "/stage/swift-coasters/swift_coasters/swift_dir/swiftwork/hello-20120602-2256-qs5e4kxg-i-echo-ics4c8sk/_swiftwrap.staging", 120, 0, NULL, NULL) = 120
+30171 sendto(94, "\3\0\0\0\0\0\0\0\3\0\0\0\0\0\0\0\341\0\266\1", 20, 0, NULL, 0) = 20
+30171 sendto(94, "GET", 3, 0, NULL, 0)  = 3
+30171 sendto(94, "\3\0\0\0\0\0\0\0t\0\0\0w\0\0\0\361*\232\267", 20, 0, NULL, 0) = 20
+30171 sendto(94, "file://localhost//stage/swift-coasters/swift-0.93/cog/modules/swift/dist/swift-svn/bin/../libexec/_swiftwrap.staging", 116, 0, NULL, 0) = 116
+30171 sendto(94, "\3\0\0\0\2\0\0\0x\0\0\0y\0\0\0\226+\"\177", 20, 0, NULL, 0) = 20
+30171 sendto(94, "/stage/swift-coasters/swift_coasters/swift_dir/swiftwork/hello-20120602-2256-qs5e4kxg-i-echo-ics4c8sk/_swiftwrap.staging", 120, 0, NULL, 0) = 120
+30173 --- SIGSEGV (Segmentation fault) @ 0 (0) ---
+30161 recvfrom(95, "\221\26\0\0\2\0\0\0\t\0\0\0\232\26\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "HEARTBEAT", 9, 0, NULL, NULL) = 9
+30164 sendto(95, "\221\26\0\0\3\0\0\0\r\0\0\0\237\26\0\0\272\2\362\22", 20, 0, NULL, 0) = 20
+30164 sendto(95, "1338698585665", 13, 0, NULL, 0) = 13
+30164 sendto(95, "\2\0\0\0\0\0\0\0\t\0\0\0\v\0\0\0\221\2\275\f", 20, 0, NULL, 0) = 20
+30164 sendto(95, "HEARTBEAT", 9, 0, NULL, 0) = 9
+30164 sendto(95, "\2\0\0\0\2\0\0\0\r\0\0\0\r\0\0\0\267\2\350\22", 20, 0, NULL, 0) = 20
+30164 sendto(95, "1338698592727", 13, 0, NULL, 0) = 13
+30161 recvfrom(95, "\2\0\0\0\3\0\0\0\r\0\0\0\f\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30161 recvfrom(95, "1338698592729", 13, 0, NULL, NULL) = 13
+30162 --- SIGINT (Interrupt) @ 0 (0) ---
+30176 --- SIGSEGV (Segmentation fault) @ 0 (0) ---
+30120 --- SIGINT (Interrupt) @ 0 (0) ---
+30120 --- SIGCHLD (Child exited) @ 0 (0) ---

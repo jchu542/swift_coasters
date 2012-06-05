@@ -1,0 +1,4 @@
+persistent-coasters echo /bin/echo null null null
+persistent-coasters wc /usr/bin/wc null null null
+persistent-coasters ls /bin/ls null null null
+persistent-coasters cat /bin/cat null null null

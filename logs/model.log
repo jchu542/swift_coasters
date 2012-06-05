@@ -1,0 +1,357 @@
+30720 --- SIGCHLD (Child exited) @ 0 (0) ---
+30719 --- SIGCHLD (Child exited) @ 0 (0) ---
+30719 --- SIGCHLD (Child exited) @ 0 (0) ---
+30719 --- SIGCHLD (Child exited) @ 0 (0) ---
+30726 sendto(5, "d\2\265_\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30726 recvfrom(5, "d\2\265_\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30726 sendto(5, "\n\354p\224\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\16cs_users_staff\0\0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30726 recvfrom(5, "\n\354p\224\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\21cs_users_staff_0 \0\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 52
+30726 sendto(5, "l;\365\30\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\20cs_users_staff_0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30726 recvfrom(5, "l;\365\30\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0J(-,ts_ts,cs)   (-,rdb,cs)   (-,nick,cs)   (-,aauton,cs)   (-,kauffman,cs) \0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 108
+30726 sendto(5, "E\213\27P\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30726 recvfrom(5, "E\213\27P\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30726 sendto(5, "\26\322\366Z\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\vgroup.bygid\0\0\0\0\00510060\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30726 recvfrom(5, "\26\322\366Z\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\34college:*:10060:ashuntwo,ido", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 60
+30726 sendto(5, "\32A\242~\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\vgroup.bygid\0\0\0\0\00510060\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30726 recvfrom(5, "\32A\242~\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\34college:*:10060:ashuntwo,ido", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 60
+30726 sendto(5, "\n\212\261\317\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\vgroup.bygid\0\0\0\0\00513139\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30726 recvfrom(5, "\n\212\261\317\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0&swift-coasters:*:13139:molbakr,jchu542\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 72
+30725 --- SIGCHLD (Child exited) @ 0 (0) ---
+30719 --- SIGCHLD (Child exited) @ 0 (0) ---
+30729 sendto(5, "l\324\36a\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30729 recvfrom(5, "l\324\36a\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30729 sendto(5, "zE\362n\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\16cs_users_staff\0\0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30729 recvfrom(5, "zE\362n\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\21cs_users_staff_0 \0\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 52
+30729 sendto(5, "\200\372\32\352\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\20cs_users_staff_0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30729 recvfrom(5, "\200\372\32\352\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0J(-,ts_ts,cs)   (-,rdb,cs)   (-,nick,cs)   (-,aauton,cs)   (-,kauffman,cs) \0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 108
+30729 sendto(5, "j\23\335\272\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30729 recvfrom(5, "j\23\335\272\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30729 sendto(6, "]\n\255|\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30729 recvfrom(6, "]\n\255|\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30729 sendto(6, "]\333\'\370\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\16cs_users_staff\0\0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30729 recvfrom(6, "]\333\'\370\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\21cs_users_staff_0 \0\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 52
+30729 sendto(6, "\31L\"\301\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\10netgroup\0\0\0\20cs_users_staff_0", 80, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 80
+30729 recvfrom(6, "\31L\"\301\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0J(-,ts_ts,cs)   (-,rdb,cs)   (-,nick,cs)   (-,aauton,cs)   (-,kauffman,cs) \0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 108
+30729 sendto(6, "a\336\372\360\0\0\0\0\0\0\0\2\0\1\206\244\0\0\0\2\0\0\0\3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2cs\0\0\0\0\0\fpasswd.byuid\0\0\0\00510772\0\0\0", 76, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, 16) = 76
+30729 recvfrom(6, "a\336\372\360\0\0\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0Zmolbakr:rjnKekTRLByoI:10772:10060:Reed Frederik V Molbak:/home/molbakr:/usr/local/bin/bash\0\0", 8800, 0, {sa_family=AF_INET, sin_port=htons(756), sin_addr=inet_addr("128.135.164.57")}, [16]) = 124
+30729 sendto(94, "\24\0\0\0\26\0\1\3[\316\312O\0\0\0\0\0\0\0\0", 20, 0, {sa_family=AF_NETLINK, pid=0, groups=00000000}, 12) = 20
+30729 sendto(94, "p\312\1\0\0\1\0\0\0\0\0\0\5saiph\2cs\10uchicago\3edu\0\0\34\0\1", 39, MSG_NOSIGNAL, NULL, 0) = 39
+30729 recvfrom(94, "p\312\205\200\0\1\0\0\0\1\0\0\5saiph\2cs\10uchicago\3edu\0\0\34\0\1\300\22\0\6\0\1\0\0*0\0\'\3ns0\300\22\nhostmaster\300\22w\355~l\0\0*0\0\0\16\20\0\t:\200\0\0*0", 1024, 0, {sa_family=AF_INET, sin_port=htons(53), sin_addr=inet_addr("128.135.247.50")}, [16]) = 90
+30729 sendto(94, "\4\236\1\0\0\1\0\0\0\0\0\0\5saiph\2cs\10uchicago\3edu\2cs\10uchicago\3edu\0\0\34\0\1", 55, MSG_NOSIGNAL, NULL, 0) = 55
+30729 recvfrom(94, "\4\236\205\203\0\1\0\0\0\1\0\0\5saiph\2cs\10uchicago\3edu\2cs\10uchicago\3edu\0\0\34\0\1\300\"\0\6\0\1\0\0*0\0\'\3ns0\300\"\nhostmaster\300\"w\355~l\0\0*0\0\0\16\20\0\t:\200\0\0*0", 1024, 0, {sa_family=AF_INET, sin_port=htons(53), sin_addr=inet_addr("128.135.247.50")}, [16]) = 106
+30729 sendto(94, "\16\303\1\0\0\1\0\0\0\0\0\0\5saiph\2cs\10uchicago\3edu\10uchicago\3edu\0\0\34\0\1", 52, MSG_NOSIGNAL, NULL, 0) = 52
+30729 recvfrom(94, "\16\303\205\203\0\1\0\0\0\1\0\0\5saiph\2cs\10uchicago\3edu\10uchicago\3edu\0\0\34\0\1\300\"\0\6\0\1\0\2\243\0\0)\5ucns0\300\"\nhostmaster\300\"|\233=-\0\0\34 \0\0\16\20\0\'\215\0\0\2\243\0", 1024, 0, {sa_family=AF_INET, sin_port=htons(53), sin_addr=inet_addr("128.135.247.50")}, [16]) = 105
+30729 sendto(94, "\0009\1\0\0\1\0\0\0\0\0\0\5saiph\2cs\10uchicago\3edu\0\0\1\0\1", 39, MSG_NOSIGNAL, NULL, 0) = 39
+30729 recvfrom(94, "\0009\205\200\0\1\0\1\0\1\0\1\5saiph\2cs\10uchicago\3edu\0\0\1\0\1\300\f\0\1\0\1\0\0*0\0\4\200\207\30\357\300\22\0\2\0\1\0\0*0\0\6\3ns1\300\22\300C\0\1\0\1\0\0*0\0\4\200\207\244\232", 1024, 0, {sa_family=AF_INET, sin_port=htons(53), sin_addr=inet_addr("128.135.247.50")}, [16]) = 89
+30760 recvfrom(95, "\225\"\0\0\0\0\0\0\10\0\0\0\235\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "REGISTER", 8, 0, NULL, NULL) = 8
+30760 recvfrom(95, "\225\"\0\0\0\0\0\0\6\0\0\0\223\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "swork0", 6, 0, NULL, NULL) = 6
+30760 recvfrom(95, "\225\"\0\0\0\0\0\0\25\0\0\0\200\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "saiph.cs.uchicago.edu", 21, 0, NULL, NULL) = 21
+30760 recvfrom(95, "\225\"\0\0\2\0\0\0\20\0\0\0\207\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "maxwalltime = -1", 16, 0, NULL, NULL) = 16
+30763 sendto(95, "\225\"\0\0\3\0\0\0\6\0\0\0\220\"\0\0!\1\366\3", 20, 0, NULL, 0) = 20
+30763 sendto(95, "000000", 6, 0, NULL, 0) = 6
+30760 recvfrom(94, "\1\0\0\0\0\0\0\0\r\0\0\0\f\0\0\0\260\3\245\31", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "CHANNELCONFIG", 13, 0, NULL, NULL) = 13
+30760 recvfrom(94, "\1\0\0\0\0\0\0\0\32\0\0\0\33\0\0\0\310\10\204s", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, " keepalive(120), reconnect", 26, 0, NULL, NULL) = 26
+30760 recvfrom(94, "\1\0\0\0\0\0\0\0\0\0\0\0\1\0\0\0\1\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "\1\0\0\0\0\0\0\0\33\0\0\0\32\0\0\0\222\6\367c", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "u34beb668-137b03681b8--8000", 27, 0, NULL, NULL) = 27
+30760 recvfrom(94, "\1\0\0\0\2\0\0\0\0\0\0\0\3\0\0\0\1\0\0\0", 20, 0, NULL, NULL) = 20
+30916 sendto(94, "\1\0\0\0\3\0\0\0\34\0\0\0\36\0\0\0\271\6Ih", 20, 0, NULL, 0) = 20
+30916 sendto(94, "u-7bc311d2-137b036889a--8000", 28, 0, NULL, 0) = 28
+30760 recvfrom(94, "\2\0\0\0\0\0\0\0\r\0\0\0\17\0\0\0\310\3\202\32", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "CONFIGSERVICE", 13, 0, NULL, NULL) = 13
+30760 recvfrom(94, "\2\0\0\0\0\0\0\0\r\0\0\0\17\0\0\0\313\4\327#", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "jobsPerNode=2", 13, 0, NULL, NULL) = 13
+30760 recvfrom(94, "\2\0\0\0\2\0\0\0\25\0\0\0\25\0\0\0\216\10~^", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "workerManager=passive", 21, 0, NULL, NULL) = 21
+30916 sendto(94, "\2\0\0\0\3\0\0\0\2\0\0\0\3\0\0\0\233\0\353\0", 20, 0, NULL, 0) = 20
+30916 sendto(94, "OK", 2, 0, NULL, 0)   = 2
+30760 recvfrom(95, "\226\"\0\0\2\0\0\0\t\0\0\0\235\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "HEARTBEAT", 9, 0, NULL, NULL) = 9
+30763 sendto(95, "\226\"\0\0\3\0\0\0\r\0\0\0\230\"\0\0\251\2\244\22", 20, 0, NULL, 0) = 20
+30763 sendto(95, "1338691195631", 13, 0, NULL, 0) = 13
+30760 recvfrom(94, "\3\0\0\0\0\0\0\0\t\0\0\0\n\0\0\0\260\2\263\r", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "SUBMITJOB", 9, 0, NULL, NULL) = 9
+30760 recvfrom(94, "\3\0\0\0\2\0\0\0t\1\0\0u\1\0\0\205\2674\222", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "x\234\245S\313n\303 \20\274\363\25\355\275\200\37Q\23W\342\336\217\250\24a\3006\r\1\v\326y\364\353\213\301m\323&\355\245\247\335\235]fG\263BKeA\303\231\225u\275yl\312\262)\352\365\n\251\223\22\23\360\326(F[mi\313\303\200\244\366J\200\363gF\3\360^\321p\324\35`\341x\0\345C.\267?\312\370(gG\347wtP\3068\\\25eU<\26\25\256\312\272\301\233\362\2559\301\272\305=Vbp\270\327\253\272\331\204\35j9\210\201u\334\4\205\270\357\3316\363x>\222y\277\266}\202q\356&\2353A\6\335\4)I\33\t\234`\231\365>%\1dL\277p\235\203La\201\272\213\302u\267\330v9\10\271\357\264Q\27\343Q\37L!\345\243w\7\35\227\345\6O\341y\246y\270\213\226\30y\217\222\231\332\316\223\247\363\23\245\306\tn\6\27\200\376\3413.HSS\341z\272wr2j\201\251\324\361]\236\10\7\233L!\204\32\335\316\'\245\327\26\276\330[XYdU\321E6wF\345\211q\261q\255\361\257\223\22I\277\235\224h\333\271\27[}\221\23\372i\351\257\344\271yKR<\241\363\377\26\265\260TH\30\305\35542\202\204\263\300\5\260\1`\274$~\212\204E\201>n\312\226\233\340(&D\343\343_B\257{\206\336\1\20\"+\"", 372, 0, NULL, NULL) = 372
+30916 sendto(94, "\1\0\0\0\0\0\0\0\4\0\0\0\5\0\0\0005\1\25\3", 20, 0, NULL, 0) = 20
+30916 sendto(94, "RLOG", 4, 0, NULL, 0) = 4
+30916 sendto(94, "\1\0\0\0\0\0\0\0\6\0\0\0\7\0\0\0\325\1q\6", 20, 0, NULL, 0) = 20
+30916 sendto(94, "STDERR", 6, 0, NULL, 0) = 6
+30916 sendto(94, "\1\0\0\0\2\0\0\0P\0\0\0S\0\0\0\246\31\272\221", 20, 0, NULL, 0) = 20
+30916 sendto(94, "Passive queue processor initialized. Callback URI is http://128.135.24.239:12001", 80, 0, NULL, 0) = 80
+30916 sendto(94, "\3\0\0\0\3\0\0\0-\0\0\0-\0\0\0\332\tR\362", 20, 0, NULL, 0) = 20
+30916 sendto(94, "urn:1338691190374-1338691202656-1338691202657", 45, 0, NULL, 0) = 45
+30760 recvfrom(94, "\1\0\0\0\3\0\0\0\2\0\0\0\0\0\0\0\233\0\353\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "OK", 2, 0, NULL, NULL) = 2
+30763 sendto(95, "\1\0\0\0\0\0\0\0\t\0\0\0\10\0\0\0\260\2\263\r", 20, 0, NULL, 0) = 20
+30763 sendto(95, "SUBMITJOB", 9, 0, NULL, 0) = 9
+30763 sendto(95, "\1\0\0\0\2\0\0\0\v\4\0\0\10\4\0\0\242N\372\266", 20, 0, NULL, 0) = 20
+30763 sendto(95, "identity=1338691202657\nexecutable=/bin/bash\ndirectory=/stage/swift-coasters/swift_coasters/swift_dir/swiftwork/hello-20120602-2139-81z9xt7b-g-echo-gi4398sk\nbatch=false\narg=_swiftwrap.staging\narg=-e\narg=/bin/echo\narg=-out\narg=hello.txt\narg=-err\narg=stderr.txt\narg=-i\narg=-d\narg=\narg=-if\narg=\narg=-of\narg=hello.txt\narg=-k\narg=-cdmfile\narg=\narg=-status\narg=provider\narg=-a\narg=Hello, world!\nstagein=proxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S//stage/swift-coasters/swift-0.93/cog/modules/swift/dist/swift-svn/bin/../libexec/_swiftwrap.staging\\n_swiftwrap.staging\\n10\nstageout=wrapper.log\\nproxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S/hello-20120602-2139-81z9xt7b.d/echo-gi4398sk.info\\n2\nstageout=./hello.txt\\nproxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S/hello.txt\\n10\nstageout=wrapper.error\\nproxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S/hello-20120602-2139-81z9xt7b.d/echo-gi4398sk.error\\n2\ncleanup=.\ncontact=http://localhost:12000\nprovider=coaster\njm=\n", 1035, 0, NULL, 0) = 1035
+30760 recvfrom(95, "\1\0\0\0\3\0\0\0\2\0\0\0\0\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "OK", 2, 0, NULL, NULL) = 2
+30760 recvfrom(95, "\227\"\0\0\0\0\0\0\t\0\0\0\236\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "JOBSTATUS", 9, 0, NULL, NULL) = 9
+30760 recvfrom(95, "\227\"\0\0\0\0\0\0\r\0\0\0\232\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "1338691202657", 13, 0, NULL, NULL) = 13
+30760 recvfrom(95, "\227\"\0\0\0\0\0\0\2\0\0\0\225\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "16", 2, 0, NULL, NULL) = 2
+30760 recvfrom(95, "\227\"\0\0\0\0\0\0\1\0\0\0\226\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "0", 1, 0, NULL, NULL) = 1
+30760 recvfrom(95, "\227\"\0\0\2\0\0\0\17\0\0\0\232\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "workerid=000000", 15, 0, NULL, NULL) = 15
+30916 sendto(94, "\2\0\0\0\0\0\0\0\t\0\0\0\v\0\0\0\300\2|\r", 20, 0, NULL, 0) = 20
+30916 sendto(94, "JOBSTATUS", 9, 0, NULL, 0) = 9
+30763 sendto(95, "\227\"\0\0\3\0\0\0\2\0\0\0\226\"\0\0\233\0\353\0", 20, 0, NULL, 0 <unfinished ...>
+30916 sendto(94, "\2\0\0\0\0\0\0\0-\0\0\0/\0\0\0\332\tR\362", 20, 0, NULL, 0) = 20
+30763 <... sendto resumed> )            = 20
+30760 recvfrom(95,  <unfinished ...>
+30763 sendto(95, "OK", 2, 0, NULL, 0 <unfinished ...>
+30760 <... recvfrom resumed> "\230\"\0\0\0\0\0\0\3\0\0\0\233\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30916 sendto(94, "urn:1338691190374-1338691202656-1338691202657", 45, 0, NULL, 0 <unfinished ...>
+30763 <... sendto resumed> )            = 2
+30916 <... sendto resumed> )            = 45
+30760 recvfrom(95,  <unfinished ...>
+30916 sendto(94, "\2\0\0\0\0\0\0\0\2\0\0\0\0\0\0\0h\0\232\0", 20, 0, NULL, 0 <unfinished ...>
+30760 <... recvfrom resumed> "GET", 3, 0, NULL, NULL) = 3
+30916 <... sendto resumed> )            = 20
+30916 sendto(94, "16", 2, 0, NULL, 0)   = 2
+30916 sendto(94, "\2\0\0\0\0\0\0\0\1\0\0\0\3\0\0\0001\0001\0", 20, 0, NULL, 0) = 20
+30916 sendto(94, "0", 1, 0, NULL, 0)    = 1
+30760 recvfrom(95, "\230\"\0\0\0\0\0\0\245\0\0\0=\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30916 sendto(94, "\2\0\0\0\0\0\0\0\17\0\0\0\r\0\0\0\305\4\37-", 20, 0, NULL, 0) = 20
+30760 recvfrom(95,  <unfinished ...>
+30916 sendto(94, "workerid=000000", 15, 0, NULL, 0 <unfinished ...>
+30760 <... recvfrom resumed> "proxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S//stage/swift-coasters/swift-0.93/cog/modules/swift/dist/swift-svn/bin/../libexec/_swiftwrap.staging", 165, 0, NULL, NULL) = 165
+30916 <... sendto resumed> )            = 15
+30916 sendto(94, "\2\0\0\0\2\0\0\0\10\0\0\0\10\0\0\0\226\2\245\20", 20, 0, NULL, 0) = 20
+30916 sendto(94, "\311\2566\2607\1\0\0", 8, 0, NULL, 0) = 8
+30760 recvfrom(95, "\230\"\0\0\2\0\0\0x\0\0\0\342\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "/stage/swift-coasters/swift_coasters/swift_dir/swiftwork/hello-20120602-2139-81z9xt7b-g-echo-gi4398sk/_swiftwrap.staging", 120, 0, NULL, NULL) = 120
+30916 sendto(94, "\3\0\0\0\0\0\0\0\3\0\0\0\0\0\0\0\341\0\266\1", 20, 0, NULL, 0) = 20
+30916 sendto(94, "GET", 3, 0, NULL, 0)  = 3
+30916 sendto(94, "\3\0\0\0\0\0\0\0t\0\0\0w\0\0\0\361*\232\267", 20, 0, NULL, 0) = 20
+30916 sendto(94, "file://localhost//stage/swift-coasters/swift-0.93/cog/modules/swift/dist/swift-svn/bin/../libexec/_swiftwrap.staging", 116, 0, NULL, 0) = 116
+30916 sendto(94, "\3\0\0\0\2\0\0\0x\0\0\0y\0\0\0\323*\232f", 20, 0, NULL, 0) = 20
+30916 sendto(94, "/stage/swift-coasters/swift_coasters/swift_dir/swiftwork/hello-20120602-2139-81z9xt7b-g-echo-gi4398sk/_swiftwrap.staging", 120, 0, NULL, 0) = 120
+30760 recvfrom(94, "\2\0\0\0\3\0\0\0\2\0\0\0\3\0\0\0\233\0\353\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "OK", 2, 0, NULL, NULL) = 2
+30760 recvfrom(94, "\3\0\0\0\1\0\0\0\10\0\0\0\n\0\0\0\316\0Y\6", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "\266\27\0\0\0\0\0\0", 8, 0, NULL, NULL) = 8
+30763 sendto(95, "\230\"\0\0\1\0\0\0\10\0\0\0\221\"\0\0\316\0Y\6", 20, 0, NULL, 0 <unfinished ...>
+30760 recvfrom(94, "\3\0\0\0\3\0\0\0\266\27\0\0\266\27\0\0\27\223\355\302", 20, 0, NULL, NULL) = 20
+30763 <... sendto resumed> )            = 20
+30763 sendto(95, "\266\27\0\0\0\0\0\0", 8, 0, NULL, 0 <unfinished ...>
+30760 recvfrom(94,  <unfinished ...>
+30763 <... sendto resumed> )            = 8
+30760 <... recvfrom resumed> "# this script must be invoked inside of bash, not plain sh\n\nopeninfo() {\n\texec 3<> $1\n\tINFO=3\n}\n\ncloseinfo() {\n\texec 3>&-\n}\n\n# Clobbered by SWIFTWRAP_FAST\nlog() {\n\techo \"$@\" >& \"$INFO\"\n}\n\n# Clobbered by SWIFTWRAP_FAST\ninfosection() {\n\techo >& \"$INFO\"\n\techo \"_____________________________________________________________________________\" >& \"$INFO\"\n\techo >& \"$INFO\"\n\techo \"        $1\" >& \"$INFO\"\n\techo \"_____________________________________________________________________________\" >& \"$INFO\"\n\techo >& \"$INFO\"\n}\n\ninfo() {\n\tinfosection \"uname -a\"\n\tuname -a 2>&1 >& \"$INFO\"\n\tinfosection \"id\"\n\tid 2>&1 >& \"$INFO\"\n\tinfosection \"env\"\n\tenv 2>&1 >& \"$INFO\"\n\tinfosection \"df\"\n\tdf 2>&1 >& \"$INFO\"\n        if [ -e \"/proc/cpuinfo\" ]; then\n\t\tinfosection \"/proc/cpuinfo\"\n\t\tcat /proc/cpuinfo 2>&1 >& \"$INFO\"\n\tfi\n\tif [ -e \"/proc/meminfo\" ]; then\n\t\tinfosection \"/proc/meminfo\"\n\t\tcat /proc/meminfo 2>&1 >& \"$INFO\"\n\tfi\n\tinfosection \"command line\"\n\techo $COMMANDLINE 2>&1 >& \"$INFO\"\n\tif [ -f \"$STDOUT\" ] ; then\n\t\tinfosection \"stdout\"\n\t\tcat $STDOUT >& \"$INFO\"\n\tfi\n\tif [ -f \"$STDERR\" ] ; then\n\t\tinfosection \"stderr\"\n\t\tcat $STDERR >& \"$INFO\"\n\tfi\n}\n\n# Clobbered by SWIFTWRAP_FAST\nlogstate() {\n\techo \"Progress \" `date +\"%Y-%m-%d %H:%M:%S.%N%z\"` \" $@\" >& \"$INFO\"\n}\n\nfail() {\n\tEC=$1\n\tshift\n\n\tlog $@\n\tinfo\n\techo \"$@\" >> wrapper.error\n\texit $EC\n}\n\ncheckError() {\n\tif [ \"$?\" != \"0\" ]; then\n\t\tfail $@\n\tfi\n}\n\ncheckEmpty() {\n\tif [ \"$1\" == \"\" ]; then\n\t\tshift\n\t\tfail 254 $@\n\tfi\n}\n\n# Clobbered by SWIFTWRAP_FAST\ncheckMissing() {\n\tMISSING=\n\tfor O in $OUTF ; do\n\t\tif [ ! -f \"$O\" ]; then\n\t\t\tif [ \"$MISSING\" == \"\" ]; then\n\t\t\t\tMISSING=$O\n\t\t\telse\n\t\t\t\tMISSING=\"$MISSING, $O\"\n\t\t\tfi\n\t\tfi\n\tdone\n\tif [ \"$MISSING\" != \"\" ]; then\n\t\tfail 254 \"The following output files were not created by the application: $MISSING\"\n\tfi\n}\n\ncheckparamfile() {\n\tlog \"checking for paramfile\"\n\tif [ \"$1\" == \"-p\" ]; then\n\t\tJOBDIR=$2\n\t\tPARAMFILE=${WFDIR}/parameters/${JOBDIR}/param-${ID}\n\t\tlog \"paramfile is: $PARAMFILE\"\n\telse\n\t\tlog \"no paramfile: using command line arguments\"\n\tfi\n}\n\ngetarg() {\n\tNAME=$1\n\tshift\n\tVALUE=\"\"\n\tSHIFTCOUNT=0\n\tif [ \"$PARAMFILE\" == \"\" ] && [ \"$1\" == \"$NAME\" ]; then\n\t\tshift\n\t\tlet \"SHIFTCOUNT=$SHIFTCOUNT+1\"\n\t\twhile [ \"${1:0:1}\" != \"-\" ] && [ \"$#\" != \"0\" ]; do\n\t\t\tVALUE=\"$VALUE $1\"\n\t\t\tshift\n\t\t\tlet \"SHIFTCOUNT=$SHIFTCOUNT+1\"\n\t\tdone\n\t\tVALUE=\"${VALUE:1}\"\n\telif [ \"$PARAMFILE\" != \"\" ] && grep -E \"^$NAME \" $PARAMFILE ; then\n\t\t\tVALUE=$(grep -E \"^$NAME \" $PARAMFILE | cut -d \' \' -f 2-)\n\telse\n\t\tfail 254 \"Missing $NAME argument\"\n\tfi\n}\n\nCOMMANDLINE=$@\n\n# make the WFDIR absolute\nPARAMFILE=\n\nopeninfo \"wrapper.log\"\n\ncheckparamfile \"$@\"\n\n# # SWIFTWRAP_FAST: Turn things off for speed\nif [[ $SWIFTWRAP_FAST == \"1\" ]]; then\n\tshopt -s expand_aliases\n\talias infosection=:\n\talias logstate=:\n\talias log=:\n\talias checkMissing=:\nfi\n\nif [ \"X$INFODIR\" == \"X\" ]; then\n\tINFODIR=\".\"\nfi\n\nlogstate \"LOG_START\"\ninfosection \"Wrapper (_swiftwrap.staging)\"\n\nlog $COMMANDLINE\n\ngetarg \"-e\" \"$@\"\nEXEC=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-out\" \"$@\"\nSTDOUT=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-err\" \"$@\"\nSTDERR=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-i\" \"$@\"\nSTDIN=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-d\" \"$@\"\nDIRS=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-if\" \"$@\"\nINF=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-of\" \"$@\"\nOUTF=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-k\" \"$@\"\nKICKSTART=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-cdmfile\" \"$@\"\nCDM_FILE=\nif [ \"X$VALUE\" != \"X\" ]; then\n\tCDM_FILE=$VALUE\n\tlog \"CDM_FILE: $CDM_FILE\"\nfi\nshift $SHIFTCOUNT\n\ngetarg \"-status\" \"$@\"\nSTATUSMODE=$VALUE\nshift $SHIFTCOUNT\n\ndeclare -a CMDARGS\nif [ \"$PARAMFILE\" == \"\" ] && [ \"$1\" == \"-a\" ] ; then\n\tshift\n\tCMDARGS=(\"$@\")\nelif [ \"$PARAMFILE\" != \"\" ] ; then\n\tCMDARGS=()\n\tFIRST=1\n\twhile read line ; do\n\t\tif [ \"$FIRST\" == \"1\" ] ; then\n\t\t\tCMDARGS=(\"$line\")\n\t\t\tFIRST=0\n\t\telse\n\t\t\tCMDARGS=(\"${CMDARGS[*]}\" \"$line\")\n\t\tfi\n\tdone < <(grep -E \"^-a \" $PARAMFILE | cut -d \" \" -f 2-)\nelse\n\tfail 254 \"Missing arguments (-a option)\"\nfi\n\n[[ $CDM_FILE != \"\" ]] && source cdm_lib.sh\n\nPATH=$PATH:/bin:/usr/bin\n\nif [ \"$PATHPREFIX\" != \"\" ]; then\n\texport PATH=$PATHPREFIX:$PATH\nfi\n\nif [ \"$SWIFT_EXTRA_INFO\" != \"\" ]; then\n\tlog \"EXTRAINFO=$($SWIFT_EXTRA_INFO)\"\nfi\n\nif [ \"X${EXEC:0:1}\" != \"X/\" ] ; then\n\texport ORIGEXEC=$EXEC\n\texport EXEC=$(which $EXEC)\n\tif [ \"X$EXEC\" = \"X\" ] ; then\n\t\tfail 254 \"Cannot find executable $ORIGEXEC on site system path\"\n\tfi\nfi\n\nlog \"PWD=$PWD\"\nlog \"EXEC=$EXEC\"\nlog \"STDIN=$STDIN\"\nlog \"STDOUT=$STDOUT\"\nlog \"STDERR=$STDERR\"\nlog \"DIRS=$DIRS\"\nlog \"INF=$INF\"\nlog \"OUTF=$OUTF\"\nlog \"KICKSTART=$KICKSTART\"\nlog \"ARGS=$@\"\nlog \"ARGC=$#\"\n\nIFS=\"|\"\n\nlogstate \"CREATE_INPUTDIR\"\nfor D in $DIRS ; do\n\tif [ _$D != _ ]; then\n\t\tmkdir -p \"$D\" 2>&1 >>\"$INFO\"\n\tfi\n\tcheckError 254 \"Failed to create input directory $D\"\n\tlog \"Created output directory: $D\"\ndone\n\nif [[ $CDM_FILE != \"\" ]] ; then\n\tfor F in $INF ; do\n\t\tCDM_POLICY=$( cdm_lookup cdm.pl $CDM_FILE $F )\n\t\tlog \"CDM_POLICY: $F -> $CDM_POLICY\"\n\t\teval cdm_action $PWD \"INPUT\" $F $CDM_POLICY\n\tdone\n\tfor F in $OUTF ; do\n\t\tCDM_POLICY=$( cdm_lookup cdm.pl $CDM_FILE $F )\n\t\tlog \"CDM_POLICY: $F -> $CDM_POLICY\"\n\t\teval cdm_action $PWD \"OUTPUT\" $F $CDM_POLICY\n\tdone\nfi\n\nlogstate \"EXECUTE\"\n\nif [ ! -f \"$EXEC\" ]; then\n\tfail 254 \"The executable $EXEC does not exist\"\nfi\nif [ ! -x \"$EXEC\" ]; then\n\tfail 254 \"The executable $EXEC does not have the executable bit set\"\nfi\n\nif [ \"$STDIN\" == \"\" ]; then\n\tif [ \"$SWIFT_GEN_SCRIPTS\" != \"\" ]; then\n\t\techo \"#!/bin/bash\" > run.sh\n\t\techo \"\\\"$EXEC\\\" \\\"${CMDARGS[@]}\\\" 1>\\\"$STDOUT\\\" 2>\\\"$STDERR\\\"\" >> run.sh\n\t\tchmod +x run.sh\n\tfi\n\t\"$EXEC\" \"${CMDARGS[@]}\" 1>\"$STDOUT\" 2>\"$STDERR\"\nelse\n\tif [ \"$SWIFT_GEN_SCRIPTS\" != \"\" ]; then\n\t\techo \"#!/bin/bash\" > run.sh\n\t\techo \"\\\"$EXEC\\\" \\\"${CMDARGS[@]}\\\" 1>\\\"$STDOUT\\\" 2>\\\"$STDERR\\\" <\\\"$STDIN\\\"\" >> run.sh\n\t\tchmod +x run.sh\n\tfi\n\t\"$EXEC\" \"${CMDARGS[@]}\" 1>\"$STDOUT\" 2>\"$STDERR\" <\"$STDIN\"\nfi\ncheckError $? \"Application $EXEC failed with an exit code of $?\" <$STDERR\n\nlogstate \"EXECUTE_DONE\"\nlog \"Job ran successfully\"\n\ncheckMissing\n\nlogstate \"END\"\n\ncloseinfo\n\n# ensure we exit with a 0 after a successful execution\nexit 0\n\n# Local Variables:\n# mode: sh\n# sh-basic-offset: 4\n# tab-width: 4\n# indent-tabs-mode: 1\n# End:\n", 6070, 0, NULL, NULL) = 6070
+30763 sendto(95, "\230\"\0\0\3\0\0\0\266\27\0\0-5\0\0\27\223\355\302", 20, 0, NULL, 0) = 20
+30763 sendto(95, "# this script must be invoked inside of bash, not plain sh\n\nopeninfo() {\n\texec 3<> $1\n\tINFO=3\n}\n\ncloseinfo() {\n\texec 3>&-\n}\n\n# Clobbered by SWIFTWRAP_FAST\nlog() {\n\techo \"$@\" >& \"$INFO\"\n}\n\n# Clobbered by SWIFTWRAP_FAST\ninfosection() {\n\techo >& \"$INFO\"\n\techo \"_____________________________________________________________________________\" >& \"$INFO\"\n\techo >& \"$INFO\"\n\techo \"        $1\" >& \"$INFO\"\n\techo \"_____________________________________________________________________________\" >& \"$INFO\"\n\techo >& \"$INFO\"\n}\n\ninfo() {\n\tinfosection \"uname -a\"\n\tuname -a 2>&1 >& \"$INFO\"\n\tinfosection \"id\"\n\tid 2>&1 >& \"$INFO\"\n\tinfosection \"env\"\n\tenv 2>&1 >& \"$INFO\"\n\tinfosection \"df\"\n\tdf 2>&1 >& \"$INFO\"\n        if [ -e \"/proc/cpuinfo\" ]; then\n\t\tinfosection \"/proc/cpuinfo\"\n\t\tcat /proc/cpuinfo 2>&1 >& \"$INFO\"\n\tfi\n\tif [ -e \"/proc/meminfo\" ]; then\n\t\tinfosection \"/proc/meminfo\"\n\t\tcat /proc/meminfo 2>&1 >& \"$INFO\"\n\tfi\n\tinfosection \"command line\"\n\techo $COMMANDLINE 2>&1 >& \"$INFO\"\n\tif [ -f \"$STDOUT\" ] ; then\n\t\tinfosection \"stdout\"\n\t\tcat $STDOUT >& \"$INFO\"\n\tfi\n\tif [ -f \"$STDERR\" ] ; then\n\t\tinfosection \"stderr\"\n\t\tcat $STDERR >& \"$INFO\"\n\tfi\n}\n\n# Clobbered by SWIFTWRAP_FAST\nlogstate() {\n\techo \"Progress \" `date +\"%Y-%m-%d %H:%M:%S.%N%z\"` \" $@\" >& \"$INFO\"\n}\n\nfail() {\n\tEC=$1\n\tshift\n\n\tlog $@\n\tinfo\n\techo \"$@\" >> wrapper.error\n\texit $EC\n}\n\ncheckError() {\n\tif [ \"$?\" != \"0\" ]; then\n\t\tfail $@\n\tfi\n}\n\ncheckEmpty() {\n\tif [ \"$1\" == \"\" ]; then\n\t\tshift\n\t\tfail 254 $@\n\tfi\n}\n\n# Clobbered by SWIFTWRAP_FAST\ncheckMissing() {\n\tMISSING=\n\tfor O in $OUTF ; do\n\t\tif [ ! -f \"$O\" ]; then\n\t\t\tif [ \"$MISSING\" == \"\" ]; then\n\t\t\t\tMISSING=$O\n\t\t\telse\n\t\t\t\tMISSING=\"$MISSING, $O\"\n\t\t\tfi\n\t\tfi\n\tdone\n\tif [ \"$MISSING\" != \"\" ]; then\n\t\tfail 254 \"The following output files were not created by the application: $MISSING\"\n\tfi\n}\n\ncheckparamfile() {\n\tlog \"checking for paramfile\"\n\tif [ \"$1\" == \"-p\" ]; then\n\t\tJOBDIR=$2\n\t\tPARAMFILE=${WFDIR}/parameters/${JOBDIR}/param-${ID}\n\t\tlog \"paramfile is: $PARAMFILE\"\n\telse\n\t\tlog \"no paramfile: using command line arguments\"\n\tfi\n}\n\ngetarg() {\n\tNAME=$1\n\tshift\n\tVALUE=\"\"\n\tSHIFTCOUNT=0\n\tif [ \"$PARAMFILE\" == \"\" ] && [ \"$1\" == \"$NAME\" ]; then\n\t\tshift\n\t\tlet \"SHIFTCOUNT=$SHIFTCOUNT+1\"\n\t\twhile [ \"${1:0:1}\" != \"-\" ] && [ \"$#\" != \"0\" ]; do\n\t\t\tVALUE=\"$VALUE $1\"\n\t\t\tshift\n\t\t\tlet \"SHIFTCOUNT=$SHIFTCOUNT+1\"\n\t\tdone\n\t\tVALUE=\"${VALUE:1}\"\n\telif [ \"$PARAMFILE\" != \"\" ] && grep -E \"^$NAME \" $PARAMFILE ; then\n\t\t\tVALUE=$(grep -E \"^$NAME \" $PARAMFILE | cut -d \' \' -f 2-)\n\telse\n\t\tfail 254 \"Missing $NAME argument\"\n\tfi\n}\n\nCOMMANDLINE=$@\n\n# make the WFDIR absolute\nPARAMFILE=\n\nopeninfo \"wrapper.log\"\n\ncheckparamfile \"$@\"\n\n# # SWIFTWRAP_FAST: Turn things off for speed\nif [[ $SWIFTWRAP_FAST == \"1\" ]]; then\n\tshopt -s expand_aliases\n\talias infosection=:\n\talias logstate=:\n\talias log=:\n\talias checkMissing=:\nfi\n\nif [ \"X$INFODIR\" == \"X\" ]; then\n\tINFODIR=\".\"\nfi\n\nlogstate \"LOG_START\"\ninfosection \"Wrapper (_swiftwrap.staging)\"\n\nlog $COMMANDLINE\n\ngetarg \"-e\" \"$@\"\nEXEC=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-out\" \"$@\"\nSTDOUT=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-err\" \"$@\"\nSTDERR=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-i\" \"$@\"\nSTDIN=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-d\" \"$@\"\nDIRS=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-if\" \"$@\"\nINF=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-of\" \"$@\"\nOUTF=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-k\" \"$@\"\nKICKSTART=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-cdmfile\" \"$@\"\nCDM_FILE=\nif [ \"X$VALUE\" != \"X\" ]; then\n\tCDM_FILE=$VALUE\n\tlog \"CDM_FILE: $CDM_FILE\"\nfi\nshift $SHIFTCOUNT\n\ngetarg \"-status\" \"$@\"\nSTATUSMODE=$VALUE\nshift $SHIFTCOUNT\n\ndeclare -a CMDARGS\nif [ \"$PARAMFILE\" == \"\" ] && [ \"$1\" == \"-a\" ] ; then\n\tshift\n\tCMDARGS=(\"$@\")\nelif [ \"$PARAMFILE\" != \"\" ] ; then\n\tCMDARGS=()\n\tFIRST=1\n\twhile read line ; do\n\t\tif [ \"$FIRST\" == \"1\" ] ; then\n\t\t\tCMDARGS=(\"$line\")\n\t\t\tFIRST=0\n\t\telse\n\t\t\tCMDARGS=(\"${CMDARGS[*]}\" \"$line\")\n\t\tfi\n\tdone < <(grep -E \"^-a \" $PARAMFILE | cut -d \" \" -f 2-)\nelse\n\tfail 254 \"Missing arguments (-a option)\"\nfi\n\n[[ $CDM_FILE != \"\" ]] && source cdm_lib.sh\n\nPATH=$PATH:/bin:/usr/bin\n\nif [ \"$PATHPREFIX\" != \"\" ]; then\n\texport PATH=$PATHPREFIX:$PATH\nfi\n\nif [ \"$SWIFT_EXTRA_INFO\" != \"\" ]; then\n\tlog \"EXTRAINFO=$($SWIFT_EXTRA_INFO)\"\nfi\n\nif [ \"X${EXEC:0:1}\" != \"X/\" ] ; then\n\texport ORIGEXEC=$EXEC\n\texport EXEC=$(which $EXEC)\n\tif [ \"X$EXEC\" = \"X\" ] ; then\n\t\tfail 254 \"Cannot find executable $ORIGEXEC on site system path\"\n\tfi\nfi\n\nlog \"PWD=$PWD\"\nlog \"EXEC=$EXEC\"\nlog \"STDIN=$STDIN\"\nlog \"STDOUT=$STDOUT\"\nlog \"STDERR=$STDERR\"\nlog \"DIRS=$DIRS\"\nlog \"INF=$INF\"\nlog \"OUTF=$OUTF\"\nlog \"KICKSTART=$KICKSTART\"\nlog \"ARGS=$@\"\nlog \"ARGC=$#\"\n\nIFS=\"|\"\n\nlogstate \"CREATE_INPUTDIR\"\nfor D in $DIRS ; do\n\tif [ _$D != _ ]; then\n\t\tmkdir -p \"$D\" 2>&1 >>\"$INFO\"\n\tfi\n\tcheckError 254 \"Failed to create input directory $D\"\n\tlog \"Created output directory: $D\"\ndone\n\nif [[ $CDM_FILE != \"\" ]] ; then\n\tfor F in $INF ; do\n\t\tCDM_POLICY=$( cdm_lookup cdm.pl $CDM_FILE $F )\n\t\tlog \"CDM_POLICY: $F -> $CDM_POLICY\"\n\t\teval cdm_action $PWD \"INPUT\" $F $CDM_POLICY\n\tdone\n\tfor F in $OUTF ; do\n\t\tCDM_POLICY=$( cdm_lookup cdm.pl $CDM_FILE $F )\n\t\tlog \"CDM_POLICY: $F -> $CDM_POLICY\"\n\t\teval cdm_action $PWD \"OUTPUT\" $F $CDM_POLICY\n\tdone\nfi\n\nlogstate \"EXECUTE\"\n\nif [ ! -f \"$EXEC\" ]; then\n\tfail 254 \"The executable $EXEC does not exist\"\nfi\nif [ ! -x \"$EXEC\" ]; then\n\tfail 254 \"The executable $EXEC does not have the executable bit set\"\nfi\n\nif [ \"$STDIN\" == \"\" ]; then\n\tif [ \"$SWIFT_GEN_SCRIPTS\" != \"\" ]; then\n\t\techo \"#!/bin/bash\" > run.sh\n\t\techo \"\\\"$EXEC\\\" \\\"${CMDARGS[@]}\\\" 1>\\\"$STDOUT\\\" 2>\\\"$STDERR\\\"\" >> run.sh\n\t\tchmod +x run.sh\n\tfi\n\t\"$EXEC\" \"${CMDARGS[@]}\" 1>\"$STDOUT\" 2>\"$STDERR\"\nelse\n\tif [ \"$SWIFT_GEN_SCRIPTS\" != \"\" ]; then\n\t\techo \"#!/bin/bash\" > run.sh\n\t\techo \"\\\"$EXEC\\\" \\\"${CMDARGS[@]}\\\" 1>\\\"$STDOUT\\\" 2>\\\"$STDERR\\\" <\\\"$STDIN\\\"\" >> run.sh\n\t\tchmod +x run.sh\n\tfi\n\t\"$EXEC\" \"${CMDARGS[@]}\" 1>\"$STDOUT\" 2>\"$STDERR\" <\"$STDIN\"\nfi\ncheckError $? \"Application $EXEC failed with an exit code of $?\" <$STDERR\n\nlogstate \"EXECUTE_DONE\"\nlog \"Job ran successfully\"\n\ncheckMissing\n\nlogstate \"END\"\n\ncloseinfo\n\n# ensure we exit with a 0 after a successful execution\nexit 0\n\n# Local Variables:\n# mode: sh\n# sh-basic-offset: 4\n# tab-width: 4\n# indent-tabs-mode: 1\n# End:\n", 6070, 0, NULL, 0) = 6070
+30760 recvfrom(95, "\231\"\0\0\0\0\0\0\t\0\0\0\220\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "JOBSTATUS", 9, 0, NULL, NULL) = 9
+30760 recvfrom(95, "\231\"\0\0\0\0\0\0\r\0\0\0\224\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "1338691202657", 13, 0, NULL, NULL) = 13
+30760 recvfrom(95, "\231\"\0\0\0\0\0\0\1\0\0\0\230\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "2", 1, 0, NULL, NULL) = 1
+30760 recvfrom(95, "\231\"\0\0\0\0\0\0\1\0\0\0\230\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "0", 1, 0, NULL, NULL) = 1
+30760 recvfrom(95, "\231\"\0\0\2\0\0\0\17\0\0\0\224\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "workerid=000000", 15, 0, NULL, NULL) = 15
+30916 sendto(94, "\4\0\0\0\0\0\0\0\t\0\0\0\r\0\0\0\300\2|\r", 20, 0, NULL, 0) = 20
+30916 sendto(94, "JOBSTATUS", 9, 0, NULL, 0 <unfinished ...>
+30763 sendto(95, "\231\"\0\0\3\0\0\0\2\0\0\0\230\"\0\0\233\0\353\0", 20, 0, NULL, 0 <unfinished ...>
+30916 <... sendto resumed> )            = 9
+30763 <... sendto resumed> )            = 20
+30916 sendto(94, "\4\0\0\0\0\0\0\0-\0\0\0)\0\0\0\332\tR\362", 20, 0, NULL, 0 <unfinished ...>
+30763 sendto(95, "OK", 2, 0, NULL, 0 <unfinished ...>
+30916 <... sendto resumed> )            = 20
+30763 <... sendto resumed> )            = 2
+30916 sendto(94, "urn:1338691190374-1338691202656-1338691202657", 45, 0, NULL, 0) = 45
+30916 sendto(94, "\4\0\0\0\0\0\0\0\1\0\0\0\5\0\0\0003\0003\0", 20, 0, NULL, 0) = 20
+30916 sendto(94, "2", 1, 0, NULL, 0)    = 1
+30916 sendto(94, "\4\0\0\0\0\0\0\0\1\0\0\0\5\0\0\0001\0001\0", 20, 0, NULL, 0) = 20
+30916 sendto(94, "0", 1, 0, NULL, 0)    = 1
+30916 sendto(94, "\4\0\0\0\0\0\0\0\17\0\0\0\v\0\0\0\305\4\37-", 20, 0, NULL, 0) = 20
+30916 sendto(94, "workerid=000000", 15, 0, NULL, 0) = 15
+30916 sendto(94, "\4\0\0\0\2\0\0\0\10\0\0\0\16\0\0\0C\2\f\16", 20, 0, NULL, 0) = 20
+30916 sendto(94, "u\2576\2607\1\0\0", 8, 0, NULL, 0) = 8
+30760 recvfrom(94, "\4\0\0\0\3\0\0\0\2\0\0\0\5\0\0\0\233\0\353\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "OK", 2, 0, NULL, NULL) = 2
+30763 sendto(95, "\2\0\0\0\0\0\0\0\t\0\0\0\v\0\0\0\221\2\275\f", 20, 0, NULL, 0) = 20
+30763 sendto(95, "HEARTBEAT", 9, 0, NULL, 0) = 9
+30763 sendto(95, "\2\0\0\0\2\0\0\0\r\0\0\0\r\0\0\0\243\2r\22", 20, 0, NULL, 0) = 20
+30763 sendto(95, "1338691204058", 13, 0, NULL, 0) = 13
+30760 recvfrom(95, "\2\0\0\0\3\0\0\0\r\0\0\0\f\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "1338691204059", 13, 0, NULL, NULL) = 13
+30760 recvfrom(95, "\232\"\0\0\0\0\0\0\t\0\0\0\223\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "JOBSTATUS", 9, 0, NULL, NULL) = 9
+30760 recvfrom(95, "\232\"\0\0\0\0\0\0\r\0\0\0\227\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "1338691202657", 13, 0, NULL, NULL) = 13
+30760 recvfrom(95, "\232\"\0\0\0\0\0\0\1\0\0\0\233\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "5", 1, 0, NULL, NULL) = 1
+30760 recvfrom(95, "\232\"\0\0\0\0\0\0\3\0\0\0\231\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "126", 3, 0, NULL, NULL) = 3
+30760 recvfrom(95, "\232\"\0\0\2\0\0\0#\0\0\0\273\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "Job failed with an exit code of 126", 35, 0, NULL, NULL) = 35
+30916 sendto(94, "\5\0\0\0\0\0\0\0\t\0\0\0\f\0\0\0\300\2|\r", 20, 0, NULL, 0 <unfinished ...>
+30763 sendto(95, "\232\"\0\0\3\0\0\0\2\0\0\0\233\"\0\0\233\0\353\0", 20, 0, NULL, 0 <unfinished ...>
+30916 <... sendto resumed> )            = 20
+30763 <... sendto resumed> )            = 20
+30916 sendto(94, "JOBSTATUS", 9, 0, NULL, 0 <unfinished ...>
+30763 sendto(95, "OK", 2, 0, NULL, 0 <unfinished ...>
+30916 <... sendto resumed> )            = 9
+30763 <... sendto resumed> )            = 2
+30916 sendto(94, "\5\0\0\0\0\0\0\0-\0\0\0(\0\0\0\332\tR\362", 20, 0, NULL, 0) = 20
+30916 sendto(94, "urn:1338691190374-1338691202656-1338691202657", 45, 0, NULL, 0) = 45
+30916 sendto(94, "\5\0\0\0\0\0\0\0\1\0\0\0\4\0\0\0006\0006\0", 20, 0, NULL, 0) = 20
+30916 sendto(94, "5", 1, 0, NULL, 0)    = 1
+30916 sendto(94, "\5\0\0\0\0\0\0\0\3\0\0\0\6\0\0\0\232\0000\1", 20, 0, NULL, 0) = 20
+30916 sendto(94, "126", 3, 0, NULL, 0)  = 3
+30916 sendto(94, "\5\0\0\0\0\0\0\0\346\2\0\0\343\2\0\0\354\21_\375", 20, 0, NULL, 0) = 20
+30916 sendto(94, "Job failed with an exit code of 126\norg.globus.cog.abstraction.impl.common.execution.JobException: Job failed with an exit code of 126\n\tat org.globus.cog.abstraction.coaster.service.local.JobStatusHandler.requestComplete(JobStatusHandler.java:37)\n\tat org.globus.cog.karajan.workflow.service.handlers.RequestHandler.receiveCompleted(RequestHandler.java:87)\n\tat org.globus.cog.karajan.workflow.service.channels.AbstractKarajanChannel.handleRequest(AbstractKarajanChannel.java:481)\n\tat org.globus.cog.karajan.workflow.service.channels.AbstractStreamKarajanChannel.step(AbstractStreamKarajanChannel.java:180)\n\tat org.globus.cog.karajan.workflow.service.channels.AbstractStreamKarajanChannel$Multiplexer.run(AbstractStreamKarajanChannel.java:404)\n", 742, 0, NULL, 0) = 742
+30916 sendto(94, "\5\0\0\0\2\0\0\0\10\0\0\0\17\0\0\0g\2\355\16", 20, 0, NULL, 0) = 20
+30916 sendto(94, "Z\3566\2607\1\0\0", 8, 0, NULL, 0) = 8
+30760 recvfrom(94, "\5\0\0\0\3\0\0\0\2\0\0\0\4\0\0\0\233\0\353\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "OK", 2, 0, NULL, NULL) = 2
+30760 recvfrom(94, "\4\0\0\0\0\0\0\0\t\0\0\0\r\0\0\0\260\2\263\r", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "SUBMITJOB", 9, 0, NULL, NULL) = 9
+30760 recvfrom(94, "\4\0\0\0\2\0\0\0s\1\0\0u\1\0\0\247\272\17I", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "x\234\245S\313n\303 \20\274\363\25\355\275\200\37U\22G\342\336\217\210\24a\3001\r\1\v\326y\364\353\213\301m\3226\355\245\247\335\235]fG\263BKeA\303\205\225u\275Z4e\331\24\365r\211\324Y\211\21xk\24\243\255\266\264\345\241GR{%\300\371\v\243\1\370N\321p\322\35`\341x\0\345C.\267\337\312\370(g\'\347\367\264W\3068\\\25eU,\212\nWe\335\340U\371\326\234a\331b\215\225\350\35\326\372\271nVa\217Z\16\242g\0357A!\356wl\233y<\37\310\264_\333]\202q\356&\235\23A\6\335\10)I\33\t\234a\236\365>%\1dL\257\270\316A\2460C\335M\341\272{l\373\34\204<t\332\250\233\361\250\17\306\220\362\301\273\243\216\313r\203\247\3602\321<=DK\214|D\311Lm\247\311\363eM\251q\202\233\336\5\240\177\370\214\v\322\324T\270\35=89\0325\303T\352\370.O\204\243M\246\20B\215n\247\223\322\237\26n\354=\254,\262\252\350\"\233:\203\362\304\270\330\370\251\361\257\223\22I\277\234\224h\333\271\215\255\256\344\204~Z\372+yn\336\223\24O\350\374\277E\315,\25\22Fq;\16\214 \341,p\1\254\7\30n\211\327\221\260(\320\307M\331|\23\34\305\204h|\374K\350\365\300\320;\'\225+-", 371, 0, NULL, NULL) = 371
+30916 sendto(94, "\4\0\0\0\3\0\0\0-\0\0\0*\0\0\0\332\t\321\362", 20, 0, NULL, 0) = 20
+30916 sendto(94, "urn:1338691190377-1338691202659-1338691202660", 45, 0, NULL, 0) = 45
+30763 sendto(95, "\3\0\0\0\0\0\0\0\t\0\0\0\n\0\0\0\260\2\263\r", 20, 0, NULL, 0) = 20
+30763 sendto(95, "SUBMITJOB", 9, 0, NULL, 0) = 9
+30763 sendto(95, "\3\0\0\0\2\0\0\0\v\4\0\0\n\4\0\0\244NO\260", 20, 0, NULL, 0) = 20
+30763 sendto(95, "identity=1338691202660\nexecutable=/bin/bash\ndirectory=/stage/swift-coasters/swift_coasters/swift_dir/swiftwork/hello-20120602-2139-81z9xt7b-i-echo-ii4398sk\nbatch=false\narg=_swiftwrap.staging\narg=-e\narg=/bin/echo\narg=-out\narg=hello.txt\narg=-err\narg=stderr.txt\narg=-i\narg=-d\narg=\narg=-if\narg=\narg=-of\narg=hello.txt\narg=-k\narg=-cdmfile\narg=\narg=-status\narg=provider\narg=-a\narg=Hello, world!\nstagein=proxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S//stage/swift-coasters/swift-0.93/cog/modules/swift/dist/swift-svn/bin/../libexec/_swiftwrap.staging\\n_swiftwrap.staging\\n10\nstageout=wrapper.log\\nproxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S/hello-20120602-2139-81z9xt7b.d/echo-ii4398sk.info\\n2\nstageout=./hello.txt\\nproxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S/hello.txt\\n10\nstageout=wrapper.error\\nproxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S/hello-20120602-2139-81z9xt7b.d/echo-ii4398sk.error\\n2\ncleanup=.\ncontact=http://localhost:12000\nprovider=coaster\njm=\n", 1035, 0, NULL, 0) = 1035
+30760 recvfrom(95, "\3\0\0\0\3\0\0\0\2\0\0\0\2\0\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "OK", 2, 0, NULL, NULL) = 2
+30760 recvfrom(95, "\233\"\0\0\0\0\0\0\t\0\0\0\222\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "JOBSTATUS", 9, 0, NULL, NULL) = 9
+30760 recvfrom(95, "\233\"\0\0\0\0\0\0\r\0\0\0\226\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "1338691202660", 13, 0, NULL, NULL) = 13
+30760 recvfrom(95, "\233\"\0\0\0\0\0\0\2\0\0\0\231\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "16", 2, 0, NULL, NULL) = 2
+30760 recvfrom(95, "\233\"\0\0\0\0\0\0\1\0\0\0\232\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "0", 1, 0, NULL, NULL) = 1
+30760 recvfrom(95, "\233\"\0\0\2\0\0\0\17\0\0\0\226\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "workerid=000000", 15, 0, NULL, NULL) = 15
+30916 sendto(94, "\6\0\0\0\0\0\0\0\t\0\0\0\17\0\0\0\300\2|\r", 20, 0, NULL, 0) = 20
+30916 sendto(94, "JOBSTATUS", 9, 0, NULL, 0) = 9
+30916 sendto(94, "\6\0\0\0\0\0\0\0-\0\0\0+\0\0\0\332\t\321\362", 20, 0, NULL, 0) = 20
+30763 sendto(95, "\233\"\0\0\3\0\0\0\2\0\0\0\232\"\0\0\233\0\353\0", 20, 0, NULL, 0 <unfinished ...>
+30916 sendto(94, "urn:1338691190377-1338691202659-1338691202660", 45, 0, NULL, 0 <unfinished ...>
+30760 recvfrom(95,  <unfinished ...>
+30763 <... sendto resumed> )            = 20
+30760 <... recvfrom resumed> "\234\"\0\0\0\0\0\0\3\0\0\0\237\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30916 <... sendto resumed> )            = 45
+30763 sendto(95, "OK", 2, 0, NULL, 0)   = 2
+30916 sendto(94, "\6\0\0\0\0\0\0\0\2\0\0\0\4\0\0\0h\0\232\0", 20, 0, NULL, 0 <unfinished ...>
+30760 recvfrom(95, "GET", 3, 0, NULL, NULL) = 3
+30916 <... sendto resumed> )            = 20
+30916 sendto(94, "16", 2, 0, NULL, 0)   = 2
+30916 sendto(94, "\6\0\0\0\0\0\0\0\1\0\0\0\7\0\0\0001\0001\0", 20, 0, NULL, 0) = 20
+30760 recvfrom(95,  <unfinished ...>
+30916 sendto(94, "0", 1, 0, NULL, 0 <unfinished ...>
+30760 <... recvfrom resumed> "\234\"\0\0\0\0\0\0\245\0\0\0009\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30916 <... sendto resumed> )            = 1
+30760 recvfrom(95,  <unfinished ...>
+30916 sendto(94, "\6\0\0\0\0\0\0\0\17\0\0\0\t\0\0\0\305\4\37-", 20, 0, NULL, 0 <unfinished ...>
+30760 <... recvfrom resumed> "proxy://u34beb668-137b03681b8--8000-u-7bc311d2-137b036889a--8000S//stage/swift-coasters/swift-0.93/cog/modules/swift/dist/swift-svn/bin/../libexec/_swiftwrap.staging", 165, 0, NULL, NULL) = 165
+30916 <... sendto resumed> )            = 20
+30916 sendto(94, "workerid=000000", 15, 0, NULL, 0) = 15
+30760 recvfrom(95,  <unfinished ...>
+30916 sendto(94, "\6\0\0\0\2\0\0\0\10\0\0\0\f\0\0\0;\2\214\r", 20, 0, NULL, 0 <unfinished ...>
+30760 <... recvfrom resumed> "\234\"\0\0\2\0\0\0x\0\0\0\346\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30916 <... sendto resumed> )            = 20
+30916 sendto(94, "-\3576\2607\1\0\0", 8, 0, NULL, 0 <unfinished ...>
+30760 recvfrom(95,  <unfinished ...>
+30916 <... sendto resumed> )            = 8
+30760 <... recvfrom resumed> "/stage/swift-coasters/swift_coasters/swift_dir/swiftwork/hello-20120602-2139-81z9xt7b-i-echo-ii4398sk/_swiftwrap.staging", 120, 0, NULL, NULL) = 120
+30916 sendto(94, "\7\0\0\0\0\0\0\0\3\0\0\0\4\0\0\0\341\0\266\1", 20, 0, NULL, 0) = 20
+30916 sendto(94, "GET", 3, 0, NULL, 0)  = 3
+30916 sendto(94, "\7\0\0\0\0\0\0\0t\0\0\0s\0\0\0\361*\232\267", 20, 0, NULL, 0) = 20
+30916 sendto(94, "file://localhost//stage/swift-coasters/swift-0.93/cog/modules/swift/dist/swift-svn/bin/../libexec/_swiftwrap.staging", 116, 0, NULL, 0) = 116
+30916 sendto(94, "\7\0\0\0\2\0\0\0x\0\0\0}\0\0\0\327*\24g", 20, 0, NULL, 0) = 20
+30916 sendto(94, "/stage/swift-coasters/swift_coasters/swift_dir/swiftwork/hello-20120602-2139-81z9xt7b-i-echo-ii4398sk/_swiftwrap.staging", 120, 0, NULL, 0) = 120
+30760 recvfrom(94, "\6\0\0\0\3\0\0\0\2\0\0\0\7\0\0\0\233\0\353\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "OK", 2, 0, NULL, NULL) = 2
+30760 recvfrom(94, "\7\0\0\0\1\0\0\0\10\0\0\0\16\0\0\0\316\0Y\6", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "\266\27\0\0\0\0\0\0", 8, 0, NULL, NULL) = 8
+30763 sendto(95, "\234\"\0\0\1\0\0\0\10\0\0\0\225\"\0\0\316\0Y\6", 20, 0, NULL, 0 <unfinished ...>
+30760 recvfrom(94,  <unfinished ...>
+30763 <... sendto resumed> )            = 20
+30760 <... recvfrom resumed> "\7\0\0\0\3\0\0\0\266\27\0\0\262\27\0\0\27\223\355\302", 20, 0, NULL, NULL) = 20
+30763 sendto(95, "\266\27\0\0\0\0\0\0", 8, 0, NULL, 0 <unfinished ...>
+30760 recvfrom(94,  <unfinished ...>
+30763 <... sendto resumed> )            = 8
+30760 <... recvfrom resumed> "# this script must be invoked inside of bash, not plain sh\n\nopeninfo() {\n\texec 3<> $1\n\tINFO=3\n}\n\ncloseinfo() {\n\texec 3>&-\n}\n\n# Clobbered by SWIFTWRAP_FAST\nlog() {\n\techo \"$@\" >& \"$INFO\"\n}\n\n# Clobbered by SWIFTWRAP_FAST\ninfosection() {\n\techo >& \"$INFO\"\n\techo \"_____________________________________________________________________________\" >& \"$INFO\"\n\techo >& \"$INFO\"\n\techo \"        $1\" >& \"$INFO\"\n\techo \"_____________________________________________________________________________\" >& \"$INFO\"\n\techo >& \"$INFO\"\n}\n\ninfo() {\n\tinfosection \"uname -a\"\n\tuname -a 2>&1 >& \"$INFO\"\n\tinfosection \"id\"\n\tid 2>&1 >& \"$INFO\"\n\tinfosection \"env\"\n\tenv 2>&1 >& \"$INFO\"\n\tinfosection \"df\"\n\tdf 2>&1 >& \"$INFO\"\n        if [ -e \"/proc/cpuinfo\" ]; then\n\t\tinfosection \"/proc/cpuinfo\"\n\t\tcat /proc/cpuinfo 2>&1 >& \"$INFO\"\n\tfi\n\tif [ -e \"/proc/meminfo\" ]; then\n\t\tinfosection \"/proc/meminfo\"\n\t\tcat /proc/meminfo 2>&1 >& \"$INFO\"\n\tfi\n\tinfosection \"command line\"\n\techo $COMMANDLINE 2>&1 >& \"$INFO\"\n\tif [ -f \"$STDOUT\" ] ; then\n\t\tinfosection \"stdout\"\n\t\tcat $STDOUT >& \"$INFO\"\n\tfi\n\tif [ -f \"$STDERR\" ] ; then\n\t\tinfosection \"stderr\"\n\t\tcat $STDERR >& \"$INFO\"\n\tfi\n}\n\n# Clobbered by SWIFTWRAP_FAST\nlogstate() {\n\techo \"Progress \" `date +\"%Y-%m-%d %H:%M:%S.%N%z\"` \" $@\" >& \"$INFO\"\n}\n\nfail() {\n\tEC=$1\n\tshift\n\n\tlog $@\n\tinfo\n\techo \"$@\" >> wrapper.error\n\texit $EC\n}\n\ncheckError() {\n\tif [ \"$?\" != \"0\" ]; then\n\t\tfail $@\n\tfi\n}\n\ncheckEmpty() {\n\tif [ \"$1\" == \"\" ]; then\n\t\tshift\n\t\tfail 254 $@\n\tfi\n}\n\n# Clobbered by SWIFTWRAP_FAST\ncheckMissing() {\n\tMISSING=\n\tfor O in $OUTF ; do\n\t\tif [ ! -f \"$O\" ]; then\n\t\t\tif [ \"$MISSING\" == \"\" ]; then\n\t\t\t\tMISSING=$O\n\t\t\telse\n\t\t\t\tMISSING=\"$MISSING, $O\"\n\t\t\tfi\n\t\tfi\n\tdone\n\tif [ \"$MISSING\" != \"\" ]; then\n\t\tfail 254 \"The following output files were not created by the application: $MISSING\"\n\tfi\n}\n\ncheckparamfile() {\n\tlog \"checking for paramfile\"\n\tif [ \"$1\" == \"-p\" ]; then\n\t\tJOBDIR=$2\n\t\tPARAMFILE=${WFDIR}/parameters/${JOBDIR}/param-${ID}\n\t\tlog \"paramfile is: $PARAMFILE\"\n\telse\n\t\tlog \"no paramfile: using command line arguments\"\n\tfi\n}\n\ngetarg() {\n\tNAME=$1\n\tshift\n\tVALUE=\"\"\n\tSHIFTCOUNT=0\n\tif [ \"$PARAMFILE\" == \"\" ] && [ \"$1\" == \"$NAME\" ]; then\n\t\tshift\n\t\tlet \"SHIFTCOUNT=$SHIFTCOUNT+1\"\n\t\twhile [ \"${1:0:1}\" != \"-\" ] && [ \"$#\" != \"0\" ]; do\n\t\t\tVALUE=\"$VALUE $1\"\n\t\t\tshift\n\t\t\tlet \"SHIFTCOUNT=$SHIFTCOUNT+1\"\n\t\tdone\n\t\tVALUE=\"${VALUE:1}\"\n\telif [ \"$PARAMFILE\" != \"\" ] && grep -E \"^$NAME \" $PARAMFILE ; then\n\t\t\tVALUE=$(grep -E \"^$NAME \" $PARAMFILE | cut -d \' \' -f 2-)\n\telse\n\t\tfail 254 \"Missing $NAME argument\"\n\tfi\n}\n\nCOMMANDLINE=$@\n\n# make the WFDIR absolute\nPARAMFILE=\n\nopeninfo \"wrapper.log\"\n\ncheckparamfile \"$@\"\n\n# # SWIFTWRAP_FAST: Turn things off for speed\nif [[ $SWIFTWRAP_FAST == \"1\" ]]; then\n\tshopt -s expand_aliases\n\talias infosection=:\n\talias logstate=:\n\talias log=:\n\talias checkMissing=:\nfi\n\nif [ \"X$INFODIR\" == \"X\" ]; then\n\tINFODIR=\".\"\nfi\n\nlogstate \"LOG_START\"\ninfosection \"Wrapper (_swiftwrap.staging)\"\n\nlog $COMMANDLINE\n\ngetarg \"-e\" \"$@\"\nEXEC=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-out\" \"$@\"\nSTDOUT=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-err\" \"$@\"\nSTDERR=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-i\" \"$@\"\nSTDIN=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-d\" \"$@\"\nDIRS=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-if\" \"$@\"\nINF=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-of\" \"$@\"\nOUTF=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-k\" \"$@\"\nKICKSTART=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-cdmfile\" \"$@\"\nCDM_FILE=\nif [ \"X$VALUE\" != \"X\" ]; then\n\tCDM_FILE=$VALUE\n\tlog \"CDM_FILE: $CDM_FILE\"\nfi\nshift $SHIFTCOUNT\n\ngetarg \"-status\" \"$@\"\nSTATUSMODE=$VALUE\nshift $SHIFTCOUNT\n\ndeclare -a CMDARGS\nif [ \"$PARAMFILE\" == \"\" ] && [ \"$1\" == \"-a\" ] ; then\n\tshift\n\tCMDARGS=(\"$@\")\nelif [ \"$PARAMFILE\" != \"\" ] ; then\n\tCMDARGS=()\n\tFIRST=1\n\twhile read line ; do\n\t\tif [ \"$FIRST\" == \"1\" ] ; then\n\t\t\tCMDARGS=(\"$line\")\n\t\t\tFIRST=0\n\t\telse\n\t\t\tCMDARGS=(\"${CMDARGS[*]}\" \"$line\")\n\t\tfi\n\tdone < <(grep -E \"^-a \" $PARAMFILE | cut -d \" \" -f 2-)\nelse\n\tfail 254 \"Missing arguments (-a option)\"\nfi\n\n[[ $CDM_FILE != \"\" ]] && source cdm_lib.sh\n\nPATH=$PATH:/bin:/usr/bin\n\nif [ \"$PATHPREFIX\" != \"\" ]; then\n\texport PATH=$PATHPREFIX:$PATH\nfi\n\nif [ \"$SWIFT_EXTRA_INFO\" != \"\" ]; then\n\tlog \"EXTRAINFO=$($SWIFT_EXTRA_INFO)\"\nfi\n\nif [ \"X${EXEC:0:1}\" != \"X/\" ] ; then\n\texport ORIGEXEC=$EXEC\n\texport EXEC=$(which $EXEC)\n\tif [ \"X$EXEC\" = \"X\" ] ; then\n\t\tfail 254 \"Cannot find executable $ORIGEXEC on site system path\"\n\tfi\nfi\n\nlog \"PWD=$PWD\"\nlog \"EXEC=$EXEC\"\nlog \"STDIN=$STDIN\"\nlog \"STDOUT=$STDOUT\"\nlog \"STDERR=$STDERR\"\nlog \"DIRS=$DIRS\"\nlog \"INF=$INF\"\nlog \"OUTF=$OUTF\"\nlog \"KICKSTART=$KICKSTART\"\nlog \"ARGS=$@\"\nlog \"ARGC=$#\"\n\nIFS=\"|\"\n\nlogstate \"CREATE_INPUTDIR\"\nfor D in $DIRS ; do\n\tif [ _$D != _ ]; then\n\t\tmkdir -p \"$D\" 2>&1 >>\"$INFO\"\n\tfi\n\tcheckError 254 \"Failed to create input directory $D\"\n\tlog \"Created output directory: $D\"\ndone\n\nif [[ $CDM_FILE != \"\" ]] ; then\n\tfor F in $INF ; do\n\t\tCDM_POLICY=$( cdm_lookup cdm.pl $CDM_FILE $F )\n\t\tlog \"CDM_POLICY: $F -> $CDM_POLICY\"\n\t\teval cdm_action $PWD \"INPUT\" $F $CDM_POLICY\n\tdone\n\tfor F in $OUTF ; do\n\t\tCDM_POLICY=$( cdm_lookup cdm.pl $CDM_FILE $F )\n\t\tlog \"CDM_POLICY: $F -> $CDM_POLICY\"\n\t\teval cdm_action $PWD \"OUTPUT\" $F $CDM_POLICY\n\tdone\nfi\n\nlogstate \"EXECUTE\"\n\nif [ ! -f \"$EXEC\" ]; then\n\tfail 254 \"The executable $EXEC does not exist\"\nfi\nif [ ! -x \"$EXEC\" ]; then\n\tfail 254 \"The executable $EXEC does not have the executable bit set\"\nfi\n\nif [ \"$STDIN\" == \"\" ]; then\n\tif [ \"$SWIFT_GEN_SCRIPTS\" != \"\" ]; then\n\t\techo \"#!/bin/bash\" > run.sh\n\t\techo \"\\\"$EXEC\\\" \\\"${CMDARGS[@]}\\\" 1>\\\"$STDOUT\\\" 2>\\\"$STDERR\\\"\" >> run.sh\n\t\tchmod +x run.sh\n\tfi\n\t\"$EXEC\" \"${CMDARGS[@]}\" 1>\"$STDOUT\" 2>\"$STDERR\"\nelse\n\tif [ \"$SWIFT_GEN_SCRIPTS\" != \"\" ]; then\n\t\techo \"#!/bin/bash\" > run.sh\n\t\techo \"\\\"$EXEC\\\" \\\"${CMDARGS[@]}\\\" 1>\\\"$STDOUT\\\" 2>\\\"$STDERR\\\" <\\\"$STDIN\\\"\" >> run.sh\n\t\tchmod +x run.sh\n\tfi\n\t\"$EXEC\" \"${CMDARGS[@]}\" 1>\"$STDOUT\" 2>\"$STDERR\" <\"$STDIN\"\nfi\ncheckError $? \"Application $EXEC failed with an exit code of $?\" <$STDERR\n\nlogstate \"EXECUTE_DONE\"\nlog \"Job ran successfully\"\n\ncheckMissing\n\nlogstate \"END\"\n\ncloseinfo\n\n# ensure we exit with a 0 after a successful execution\nexit 0\n\n# Local Variables:\n# mode: sh\n# sh-basic-offset: 4\n# tab-width: 4\n# indent-tabs-mode: 1\n# End:\n", 6070, 0, NULL, NULL) = 6070
+30763 sendto(95, "\234\"\0\0\3\0\0\0\266\27\0\0)5\0\0\27\223\355\302", 20, 0, NULL, 0) = 20
+30763 sendto(95, "# this script must be invoked inside of bash, not plain sh\n\nopeninfo() {\n\texec 3<> $1\n\tINFO=3\n}\n\ncloseinfo() {\n\texec 3>&-\n}\n\n# Clobbered by SWIFTWRAP_FAST\nlog() {\n\techo \"$@\" >& \"$INFO\"\n}\n\n# Clobbered by SWIFTWRAP_FAST\ninfosection() {\n\techo >& \"$INFO\"\n\techo \"_____________________________________________________________________________\" >& \"$INFO\"\n\techo >& \"$INFO\"\n\techo \"        $1\" >& \"$INFO\"\n\techo \"_____________________________________________________________________________\" >& \"$INFO\"\n\techo >& \"$INFO\"\n}\n\ninfo() {\n\tinfosection \"uname -a\"\n\tuname -a 2>&1 >& \"$INFO\"\n\tinfosection \"id\"\n\tid 2>&1 >& \"$INFO\"\n\tinfosection \"env\"\n\tenv 2>&1 >& \"$INFO\"\n\tinfosection \"df\"\n\tdf 2>&1 >& \"$INFO\"\n        if [ -e \"/proc/cpuinfo\" ]; then\n\t\tinfosection \"/proc/cpuinfo\"\n\t\tcat /proc/cpuinfo 2>&1 >& \"$INFO\"\n\tfi\n\tif [ -e \"/proc/meminfo\" ]; then\n\t\tinfosection \"/proc/meminfo\"\n\t\tcat /proc/meminfo 2>&1 >& \"$INFO\"\n\tfi\n\tinfosection \"command line\"\n\techo $COMMANDLINE 2>&1 >& \"$INFO\"\n\tif [ -f \"$STDOUT\" ] ; then\n\t\tinfosection \"stdout\"\n\t\tcat $STDOUT >& \"$INFO\"\n\tfi\n\tif [ -f \"$STDERR\" ] ; then\n\t\tinfosection \"stderr\"\n\t\tcat $STDERR >& \"$INFO\"\n\tfi\n}\n\n# Clobbered by SWIFTWRAP_FAST\nlogstate() {\n\techo \"Progress \" `date +\"%Y-%m-%d %H:%M:%S.%N%z\"` \" $@\" >& \"$INFO\"\n}\n\nfail() {\n\tEC=$1\n\tshift\n\n\tlog $@\n\tinfo\n\techo \"$@\" >> wrapper.error\n\texit $EC\n}\n\ncheckError() {\n\tif [ \"$?\" != \"0\" ]; then\n\t\tfail $@\n\tfi\n}\n\ncheckEmpty() {\n\tif [ \"$1\" == \"\" ]; then\n\t\tshift\n\t\tfail 254 $@\n\tfi\n}\n\n# Clobbered by SWIFTWRAP_FAST\ncheckMissing() {\n\tMISSING=\n\tfor O in $OUTF ; do\n\t\tif [ ! -f \"$O\" ]; then\n\t\t\tif [ \"$MISSING\" == \"\" ]; then\n\t\t\t\tMISSING=$O\n\t\t\telse\n\t\t\t\tMISSING=\"$MISSING, $O\"\n\t\t\tfi\n\t\tfi\n\tdone\n\tif [ \"$MISSING\" != \"\" ]; then\n\t\tfail 254 \"The following output files were not created by the application: $MISSING\"\n\tfi\n}\n\ncheckparamfile() {\n\tlog \"checking for paramfile\"\n\tif [ \"$1\" == \"-p\" ]; then\n\t\tJOBDIR=$2\n\t\tPARAMFILE=${WFDIR}/parameters/${JOBDIR}/param-${ID}\n\t\tlog \"paramfile is: $PARAMFILE\"\n\telse\n\t\tlog \"no paramfile: using command line arguments\"\n\tfi\n}\n\ngetarg() {\n\tNAME=$1\n\tshift\n\tVALUE=\"\"\n\tSHIFTCOUNT=0\n\tif [ \"$PARAMFILE\" == \"\" ] && [ \"$1\" == \"$NAME\" ]; then\n\t\tshift\n\t\tlet \"SHIFTCOUNT=$SHIFTCOUNT+1\"\n\t\twhile [ \"${1:0:1}\" != \"-\" ] && [ \"$#\" != \"0\" ]; do\n\t\t\tVALUE=\"$VALUE $1\"\n\t\t\tshift\n\t\t\tlet \"SHIFTCOUNT=$SHIFTCOUNT+1\"\n\t\tdone\n\t\tVALUE=\"${VALUE:1}\"\n\telif [ \"$PARAMFILE\" != \"\" ] && grep -E \"^$NAME \" $PARAMFILE ; then\n\t\t\tVALUE=$(grep -E \"^$NAME \" $PARAMFILE | cut -d \' \' -f 2-)\n\telse\n\t\tfail 254 \"Missing $NAME argument\"\n\tfi\n}\n\nCOMMANDLINE=$@\n\n# make the WFDIR absolute\nPARAMFILE=\n\nopeninfo \"wrapper.log\"\n\ncheckparamfile \"$@\"\n\n# # SWIFTWRAP_FAST: Turn things off for speed\nif [[ $SWIFTWRAP_FAST == \"1\" ]]; then\n\tshopt -s expand_aliases\n\talias infosection=:\n\talias logstate=:\n\talias log=:\n\talias checkMissing=:\nfi\n\nif [ \"X$INFODIR\" == \"X\" ]; then\n\tINFODIR=\".\"\nfi\n\nlogstate \"LOG_START\"\ninfosection \"Wrapper (_swiftwrap.staging)\"\n\nlog $COMMANDLINE\n\ngetarg \"-e\" \"$@\"\nEXEC=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-out\" \"$@\"\nSTDOUT=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-err\" \"$@\"\nSTDERR=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-i\" \"$@\"\nSTDIN=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-d\" \"$@\"\nDIRS=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-if\" \"$@\"\nINF=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-of\" \"$@\"\nOUTF=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-k\" \"$@\"\nKICKSTART=$VALUE\nshift $SHIFTCOUNT\n\ngetarg \"-cdmfile\" \"$@\"\nCDM_FILE=\nif [ \"X$VALUE\" != \"X\" ]; then\n\tCDM_FILE=$VALUE\n\tlog \"CDM_FILE: $CDM_FILE\"\nfi\nshift $SHIFTCOUNT\n\ngetarg \"-status\" \"$@\"\nSTATUSMODE=$VALUE\nshift $SHIFTCOUNT\n\ndeclare -a CMDARGS\nif [ \"$PARAMFILE\" == \"\" ] && [ \"$1\" == \"-a\" ] ; then\n\tshift\n\tCMDARGS=(\"$@\")\nelif [ \"$PARAMFILE\" != \"\" ] ; then\n\tCMDARGS=()\n\tFIRST=1\n\twhile read line ; do\n\t\tif [ \"$FIRST\" == \"1\" ] ; then\n\t\t\tCMDARGS=(\"$line\")\n\t\t\tFIRST=0\n\t\telse\n\t\t\tCMDARGS=(\"${CMDARGS[*]}\" \"$line\")\n\t\tfi\n\tdone < <(grep -E \"^-a \" $PARAMFILE | cut -d \" \" -f 2-)\nelse\n\tfail 254 \"Missing arguments (-a option)\"\nfi\n\n[[ $CDM_FILE != \"\" ]] && source cdm_lib.sh\n\nPATH=$PATH:/bin:/usr/bin\n\nif [ \"$PATHPREFIX\" != \"\" ]; then\n\texport PATH=$PATHPREFIX:$PATH\nfi\n\nif [ \"$SWIFT_EXTRA_INFO\" != \"\" ]; then\n\tlog \"EXTRAINFO=$($SWIFT_EXTRA_INFO)\"\nfi\n\nif [ \"X${EXEC:0:1}\" != \"X/\" ] ; then\n\texport ORIGEXEC=$EXEC\n\texport EXEC=$(which $EXEC)\n\tif [ \"X$EXEC\" = \"X\" ] ; then\n\t\tfail 254 \"Cannot find executable $ORIGEXEC on site system path\"\n\tfi\nfi\n\nlog \"PWD=$PWD\"\nlog \"EXEC=$EXEC\"\nlog \"STDIN=$STDIN\"\nlog \"STDOUT=$STDOUT\"\nlog \"STDERR=$STDERR\"\nlog \"DIRS=$DIRS\"\nlog \"INF=$INF\"\nlog \"OUTF=$OUTF\"\nlog \"KICKSTART=$KICKSTART\"\nlog \"ARGS=$@\"\nlog \"ARGC=$#\"\n\nIFS=\"|\"\n\nlogstate \"CREATE_INPUTDIR\"\nfor D in $DIRS ; do\n\tif [ _$D != _ ]; then\n\t\tmkdir -p \"$D\" 2>&1 >>\"$INFO\"\n\tfi\n\tcheckError 254 \"Failed to create input directory $D\"\n\tlog \"Created output directory: $D\"\ndone\n\nif [[ $CDM_FILE != \"\" ]] ; then\n\tfor F in $INF ; do\n\t\tCDM_POLICY=$( cdm_lookup cdm.pl $CDM_FILE $F )\n\t\tlog \"CDM_POLICY: $F -> $CDM_POLICY\"\n\t\teval cdm_action $PWD \"INPUT\" $F $CDM_POLICY\n\tdone\n\tfor F in $OUTF ; do\n\t\tCDM_POLICY=$( cdm_lookup cdm.pl $CDM_FILE $F )\n\t\tlog \"CDM_POLICY: $F -> $CDM_POLICY\"\n\t\teval cdm_action $PWD \"OUTPUT\" $F $CDM_POLICY\n\tdone\nfi\n\nlogstate \"EXECUTE\"\n\nif [ ! -f \"$EXEC\" ]; then\n\tfail 254 \"The executable $EXEC does not exist\"\nfi\nif [ ! -x \"$EXEC\" ]; then\n\tfail 254 \"The executable $EXEC does not have the executable bit set\"\nfi\n\nif [ \"$STDIN\" == \"\" ]; then\n\tif [ \"$SWIFT_GEN_SCRIPTS\" != \"\" ]; then\n\t\techo \"#!/bin/bash\" > run.sh\n\t\techo \"\\\"$EXEC\\\" \\\"${CMDARGS[@]}\\\" 1>\\\"$STDOUT\\\" 2>\\\"$STDERR\\\"\" >> run.sh\n\t\tchmod +x run.sh\n\tfi\n\t\"$EXEC\" \"${CMDARGS[@]}\" 1>\"$STDOUT\" 2>\"$STDERR\"\nelse\n\tif [ \"$SWIFT_GEN_SCRIPTS\" != \"\" ]; then\n\t\techo \"#!/bin/bash\" > run.sh\n\t\techo \"\\\"$EXEC\\\" \\\"${CMDARGS[@]}\\\" 1>\\\"$STDOUT\\\" 2>\\\"$STDERR\\\" <\\\"$STDIN\\\"\" >> run.sh\n\t\tchmod +x run.sh\n\tfi\n\t\"$EXEC\" \"${CMDARGS[@]}\" 1>\"$STDOUT\" 2>\"$STDERR\" <\"$STDIN\"\nfi\ncheckError $? \"Application $EXEC failed with an exit code of $?\" <$STDERR\n\nlogstate \"EXECUTE_DONE\"\nlog \"Job ran successfully\"\n\ncheckMissing\n\nlogstate \"END\"\n\ncloseinfo\n\n# ensure we exit with a 0 after a successful execution\nexit 0\n\n# Local Variables:\n# mode: sh\n# sh-basic-offset: 4\n# tab-width: 4\n# indent-tabs-mode: 1\n# End:\n", 6070, 0, NULL, 0) = 6070
+30760 recvfrom(95, "\235\"\0\0\0\0\0\0\t\0\0\0\224\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "JOBSTATUS", 9, 0, NULL, NULL) = 9
+30760 recvfrom(95, "\235\"\0\0\0\0\0\0\r\0\0\0\220\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "1338691202660", 13, 0, NULL, NULL) = 13
+30760 recvfrom(95, "\235\"\0\0\0\0\0\0\1\0\0\0\234\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "2", 1, 0, NULL, NULL) = 1
+30760 recvfrom(95, "\235\"\0\0\0\0\0\0\1\0\0\0\234\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "0", 1, 0, NULL, NULL) = 1
+30760 recvfrom(95, "\235\"\0\0\2\0\0\0\17\0\0\0\220\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "workerid=000000", 15, 0, NULL, NULL) = 15
+30916 sendto(94, "\10\0\0\0\0\0\0\0\t\0\0\0\1\0\0\0\300\2|\r", 20, 0, NULL, 0) = 20
+30916 sendto(94, "JOBSTATUS", 9, 0, NULL, 0) = 9
+30916 sendto(94, "\10\0\0\0\0\0\0\0-\0\0\0%\0\0\0\332\t\321\362", 20, 0, NULL, 0) = 20
+30916 sendto(94, "urn:1338691190377-1338691202659-1338691202660", 45, 0, NULL, 0) = 45
+30763 sendto(95, "\235\"\0\0\3\0\0\0\2\0\0\0\234\"\0\0\233\0\353\0", 20, 0, NULL, 0 <unfinished ...>
+30916 sendto(94, "\10\0\0\0\0\0\0\0\1\0\0\0\t\0\0\0003\0003\0", 20, 0, NULL, 0 <unfinished ...>
+30763 <... sendto resumed> )            = 20
+30916 <... sendto resumed> )            = 20
+30763 sendto(95, "OK", 2, 0, NULL, 0 <unfinished ...>
+30916 sendto(94, "2", 1, 0, NULL, 0 <unfinished ...>
+30763 <... sendto resumed> )            = 2
+30916 <... sendto resumed> )            = 1
+30916 sendto(94, "\10\0\0\0\0\0\0\0\1\0\0\0\t\0\0\0001\0001\0", 20, 0, NULL, 0) = 20
+30916 sendto(94, "0", 1, 0, NULL, 0)    = 1
+30916 sendto(94, "\10\0\0\0\0\0\0\0\17\0\0\0\7\0\0\0\305\4\37-", 20, 0, NULL, 0) = 20
+30916 sendto(94, "workerid=000000", 15, 0, NULL, 0) = 15
+30916 sendto(94, "\10\0\0\0\2\0\0\0\10\0\0\0\2\0\0\0`\2\263\16", 20, 0, NULL, 0) = 20
+30916 sendto(94, "Q\3606\2607\1\0\0", 8, 0, NULL, 0) = 8
+30760 recvfrom(94, "\10\0\0\0\3\0\0\0\2\0\0\0\t\0\0\0\233\0\353\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "OK", 2, 0, NULL, NULL) = 2
+30760 recvfrom(95, "\236\"\0\0\0\0\0\0\t\0\0\0\227\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "JOBSTATUS", 9, 0, NULL, NULL) = 9
+30760 recvfrom(95, "\236\"\0\0\0\0\0\0\r\0\0\0\223\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "1338691202660", 13, 0, NULL, NULL) = 13
+30760 recvfrom(95, "\236\"\0\0\0\0\0\0\1\0\0\0\237\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "5", 1, 0, NULL, NULL) = 1
+30760 recvfrom(95, "\236\"\0\0\0\0\0\0\3\0\0\0\235\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "126", 3, 0, NULL, NULL) = 3
+30760 recvfrom(95, "\236\"\0\0\2\0\0\0#\0\0\0\277\"\0\0\0\0\0\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(95, "Job failed with an exit code of 126", 35, 0, NULL, NULL) = 35
+30916 sendto(94, "\t\0\0\0\0\0\0\0\t\0\0\0\0\0\0\0\300\2|\r", 20, 0, NULL, 0) = 20
+30916 sendto(94, "JOBSTATUS", 9, 0, NULL, 0) = 9
+30916 sendto(94, "\t\0\0\0\0\0\0\0-\0\0\0$\0\0\0\332\t\321\362", 20, 0, NULL, 0) = 20
+30916 sendto(94, "urn:1338691190377-1338691202659-1338691202660", 45, 0, NULL, 0) = 45
+30916 sendto(94, "\t\0\0\0\0\0\0\0\1\0\0\0\10\0\0\0006\0006\0", 20, 0, NULL, 0) = 20
+30916 sendto(94, "5", 1, 0, NULL, 0)    = 1
+30916 sendto(94, "\t\0\0\0\0\0\0\0\3\0\0\0\n\0\0\0\232\0000\1", 20, 0, NULL, 0) = 20
+30763 sendto(95, "\236\"\0\0\3\0\0\0\2\0\0\0\237\"\0\0\233\0\353\0", 20, 0, NULL, 0 <unfinished ...>
+30916 sendto(94, "126", 3, 0, NULL, 0 <unfinished ...>
+30763 <... sendto resumed> )            = 20
+30916 <... sendto resumed> )            = 3
+30763 sendto(95, "OK", 2, 0, NULL, 0 <unfinished ...>
+30916 sendto(94, "\t\0\0\0\0\0\0\0\346\2\0\0\357\2\0\0\354\21_\375", 20, 0, NULL, 0 <unfinished ...>
+30763 <... sendto resumed> )            = 2
+30916 <... sendto resumed> )            = 20
+30916 sendto(94, "Job failed with an exit code of 126\norg.globus.cog.abstraction.impl.common.execution.JobException: Job failed with an exit code of 126\n\tat org.globus.cog.abstraction.coaster.service.local.JobStatusHandler.requestComplete(JobStatusHandler.java:37)\n\tat org.globus.cog.karajan.workflow.service.handlers.RequestHandler.receiveCompleted(RequestHandler.java:87)\n\tat org.globus.cog.karajan.workflow.service.channels.AbstractKarajanChannel.handleRequest(AbstractKarajanChannel.java:481)\n\tat org.globus.cog.karajan.workflow.service.channels.AbstractStreamKarajanChannel.step(AbstractStreamKarajanChannel.java:180)\n\tat org.globus.cog.karajan.workflow.service.channels.AbstractStreamKarajanChannel$Multiplexer.run(AbstractStreamKarajanChannel.java:404)\n", 742, 0, NULL, 0) = 742
+30916 sendto(94, "\t\0\0\0\2\0\0\0\10\0\0\0\3\0\0\0\6\3\343\23", 20, 0, NULL, 0) = 20
+30916 sendto(94, "\367\3606\2607\1\0\0", 8, 0, NULL, 0) = 8
+30760 recvfrom(94, "\t\0\0\0\3\0\0\0\2\0\0\0\10\0\0\0\233\0\353\0", 20, 0, NULL, NULL) = 20
+30760 recvfrom(94, "OK", 2, 0, NULL, NULL) = 2
+30728 --- SIGINT (Interrupt) @ 0 (0) ---
+30719 --- SIGINT (Interrupt) @ 0 (0) ---
+30719 --- SIGCHLD (Child exited) @ 0 (0) ---
